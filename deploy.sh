@@ -6,7 +6,6 @@ ssh hci << EOF
   echo "connected to hci.stanford.edu"
   cd /afs/cs/group/hci/www/courses/cs247/2017-spring
   git pull
-  git checkout -b spring-2017 origin/spring-2017
   echo "updated site to git repo"
   exit
 EOF

@@ -22,6 +22,11 @@
 	<div class="container">
 
 		<div id="syllabus">
+
+			<div class="alert alert-info" role="alert">
+				<p>Enrollment limited to 40 students based on an application to be given out the first day of class. Please come to the first class on Monday, April 3rd.</p>
+			</div>
+
 			<p class="lead">
 				This class will deepen your fluency with design for interactive technology. You will engage hands-on in a design studio environment with expert designers, learning to critique and be critiqued by leaders who hold years of experience. Along the way,
 				you'll learn advanced techniques for needfinding, rapid prototyping, visual design, and interaction design.
