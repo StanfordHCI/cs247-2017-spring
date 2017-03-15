@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="Final Presentations - HCI Design Studio" -->
+  <!--#include virtual="includes/header.shtml" -->
+</head>
+
+<body id="finalpresentations">
+
+  <!--#include virtual="includes/brandbar.html" -->
+
+  <div class="jumbotron" id="finalpresentations">
+    <div class="container">
+      <h1><span class="department-name">HCI</span> <span class="course-name">design studio</span></h1>
+      <p>Final Presentations &middot; March 17, 5:30–8pm &middot; d.school, Stanford University</p>
+    </div>
+  </div>
+
+  <!--#include virtual="includes/navigation.html" -->
+
+  <div class="container">
+    <div class="row featurette">
+      <div class="col-sm-6">
+        <h5>You are invited</h5>
+        <p class="lead">Join us to find out how Stanford students solve real-world problems with programming and design. </p>
+        <p>CS 247 is the second core class in Stanford's HCI curriculum. Students work in a design studio environment together with expert designers, learning advanced techniques for needfinding, rapid prototyping, visual design, and interaction design.</p>
+        <p>
+          <a class="btn btn-primary" href="finalpresentation/CS-247-Project-Faire.ics">Add to calendar <small style="opacity: 0.75;"> &middot; iCal</small></a>
+          <a class="btn btn-default btn-su" href="https://www.facebook.com/events/778760742281284/">RSVP on Facebook <small style="opacity: 0.75;"> optional</small></a>
+        </p>
+      </div>
+      <div class="col-sm-6">
+        <ul class="list-unstyled agenda">
+          <h5>Agenda</h5>
+          <li>
+             5:30–6:00pm <span class="agenda-item">Social Mixer</span>
+             <p class="text-muted">Students set up and guests arrive.</p>
+          </li>
+          <li>
+            6:00–6:15pm <span class="agenda-item">Introduction</span>
+          </li>
+          <li>
+            6:15–6:50pm <span class="agenda-item">Elevator Pitches</span>
+            <p class="text-muted">Each team presents a 45-second pitch of their work.</p>
+          </li>
+          <li>
+            6:50–7:50pm <span class="agenda-item">Poster and Demo Session</span>
+            <p class="text-muted">Students present demos of their prototypes. Food will be served.</p>
+          </li>
+          <li>
+            7:50–8:00pm <span class="agenda-item">Closing Remarks</span>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <hr class="featurette-divider">
+
+  <div class="container">
+    <div class="row featurette">
+
+      <div class="col-sm-12">
+        <h5>Studio instructors and themes</h5>
+      </div>
+
+      <div class="col-sm-6">
+        <ul class="list-unstyled">
+          <li><a href="//baxleydesign.com">Bob Baxley</a> | Social Decision Making <br>
+              <p class="text-muted">The purpose of the “Social Decision Making” studio is to explore how software-based systems can leverage social inputs and interactions to: (1) help individuals make simple purchasing choices, and (2) to assist small groups as they work together to negotiate collective decisions.</p>
+          </li>
+          <li><a href="//www.aboutjmarlow.com">Jenn Marlow</a> | Banishing Bland Buildings <br>
+              <p class="text-muted">Online spaces are increasingly personalized to individual backgrounds, goals, and interests... but our interactions with offline spaces lack such customization.  In this studio, we've explored ways of using technology to help create engaging, personalized experiences for different kinds of people in public buildings like libraries, hospitals, or shopping centers.</p>
+          </li>
+          <li><a href="//www.microsoft.com/en-us/research/people/johntang/">John Tang</a> | Disrupting Echo Chambers <br>
+              <p class="text-muted">Social media is being blamed for creating echo chambers that enable people to only hear about things they agree with and lose the ability to dialog with dissenting views. Can we design social media to enable people to engage with the diverse world of opinions and promote constructive dialog, even among polarized views?</p>
+          </li>
+
+        </ul>
+      </div>
+
+      <div class="col-sm-6">
+        <ul class="list-unstyled">
+          <li>Helena Roeber | Leveling the playing field <br>
+              <p class="text-muted">In “Leveling the Playing Field” students design solutions that tie connections, remove obstacles or share information with people who are underserved by society.</p>
+          </li>
+          <li><a href="//www.slicedbreaddesign.com">Julie Stanford</a> &amp; <a href="//jofish.com">Jofish Kaye</a> | Cutting Edge <br>
+              <p class="text-muted">Surgery is synonymous with anxiety for many patients and their caregivers. Before, during, and after surgery there are many opportunities to improve patient care by connecting patients and families with the right information at the right time delivered in a format that works for them. We’ve partnered with Stanford Department of Anesthesiology to understand patient’s needs around surgery related information and design technologies that help improve the overall surgery experience when it matters the most.</p>
+          </li>
+          <li><a href="http://hci.stanford.edu/msb">Prof. Michael Bernstein</a> | Subvert <br>
+              <p class="text-muted">"Subvert" is a studio interested in hacking culture, power, and politics. How do people make their voices heard when the system isn't set up for them to be heard? Can interactive technology inject new, divergent, or creative perspectives and amplify their impact?</p>
+          </li>
+        </ul>
+      </div>
+
+    </div>  </div>
+
+  <hr class="featurette-divider">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h5>Where is the d.school?</h5>
+        <div class="row">
+          <div class="col-xs-7">
+            <p>The d.school (Hasso Platner Institute of Design) lives in <span><a href="https://www.google.com/maps/place/550+Panama+Mall/@37.4262451,-122.1719006,17z/data=!3m1!4b1!4m2!3m1!1s0x808fbad571970303:0xe54e90a1fed21300" target="_blank">Building 550</a></span>, in the center of campus. </p>
+            <address>
+              Thomas F. Peterson Engineering Laboratory<br>
+              Building 550<br>
+              550 Panama Mall<br>
+              Stanford, CA 94305
+            </address>
+          </div>
+          <div class="col-xs-5">
+            <iframe class="thumbnail" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.4596406022183!2d-122.17190060000001!3d37.426245099999925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbad571970303%3A0xe54e90a1fed21300!2s550+Panama+Mall!5e0!3m2!1sen!2sus!4v1394479497997" width="100%" height="260px" frameborder="0" style="border:0"></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <h5 class="featurette-heading">Parking</h5>
+        <div class="row">
+          <div class="col-xs-7">
+            <p>If you are visiting from off-campus, you should park at <span><a href="https://www.google.com/maps/place/L-39/@37.4234363,-122.1709056,17z/data=!3m1!4b1!4m2!3m1!1s0x808fbad4658159a1:0x24ff3038f06f81fe" target="_blank">Tressider Visitor Parking</a></span> and then walk to Building 550. Parking is free, starting at 4PM.</p>
+            <p>For more information, please visit <a href="http://dschool.stanford.edu/about/#getting-to-our-building" target="_blank" >http://dschool.stanford.edu/about/#getting-to-our-building</a></p>
+          </div>
+          <div class="col-xs-5">
+            <a href="http://maps.google.com/maps?saddr=Stanford,+California+(Tresidder+Union+Parking+Lot)&amp;daddr=Panama+St&amp;hl=en&amp;ll=37.424366,-122.169529&amp;spn=0.008001,0.015374&amp;sll=37.424475,-122.17039&amp;sspn=0.004,0.007687&amp;geocode=FdUHOwIdYtK3-CEtOFr4xFyIWg%3BFQUTOwIdkM63-A&amp;vpsrc=6&amp;t=v&amp;dirflg=w&amp;mra=dme&amp;mrsp=1&amp;sz=18&amp;z=17"><img class="thumbnail" src="http://cl.ly/2M152a0u1m341K1A3A3T/Screen%20shot%202011-11-21%20at%2012.54.57%20AM.png" alt="image" width="100%"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!--#include virtual="includes/footer.shtml" -->
+
+</body>
+
+</html>
