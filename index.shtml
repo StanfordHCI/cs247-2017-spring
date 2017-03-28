@@ -38,25 +38,19 @@
 
 			<div class="row" id="info">
 				<div class="col-sm-4">
-					<h5>Head instructor</h5>
-					<a href="http://hci.stanford.edu/msb">Prof. Maneesh Agrawala</a> <br>
-					<span class="text-muted"><small>To be determined, Gates 364</small></span>
-
-					<br><br>
-
-					<h5>Weekly schedule</h5>
-					Lecture+Studio  <br>
-					<span class="text-muted"><small>Mon, Wed 1:30–3:20pm, Lathrop 282</small></span>
-				</div>
-
-				<div class="col-sm-4">
-					<ul class="list-unstyled">
-						<h5>Studio instructors and themes</h5>
-						<li><a href="//hmslydia.com">Lydia Chilton</a> | Studio 1, topic TBD <br>
-							<span class="text-muted"><small>To be determined, Gates 364</small></span></li>
-						<li><a href="//graphics.stanford.edu/~maneesh/">Prof. Maneesh Agrawala</a> | Studio 2, topic TBD <br>
+										<ul class="list-unstyled">
+						<h5>Instructors</h5>
+						
+						<li><a href="//graphics.stanford.edu/~maneesh/">Prof. Maneesh Agrawala</a> <br>
 							<span class="text-muted"><small>To be determined, Gates 364</small></span>
-					</ul>
+						<li><a href="//hmslydia.com">Prof. Lydia Chilton</a>  <br>
+							<span class="text-muted"><small>To be determined, Gates 382</small></span></li>	
+					</ul>	
+
+
+					
+
+					
 				</div>
 
 				<div class="col-sm-4">
@@ -65,10 +59,16 @@
 						<li>Ludwig Schubert <br>
 							<span class="text-muted"><small>TBD, TBD</small></span>
 						</li>
-						<li>To be determnied <br>
+						<li>Aaron Loh <br>
 							<span class="text-muted"><small>TBD, TBD</small></span>
 						</li>
 					</ul>
+				</div>
+
+				<div class="col-sm-4">
+<h5>Weekly schedule</h5>
+					Lecture+Studio  <br>
+					<span class="text-muted"><small>Mon, Wed 1:30–3:20pm, Lathrop 282</small></span>
 				</div>
 
 			</div>
