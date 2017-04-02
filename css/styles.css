@@ -142,9 +142,15 @@ a, a:hover {
  * http://smarchal.com/twbscolor/?bd=7d0512&bh=943943&cd=ecf0f1&ch=ffbbbc
  */
 .navbar-default {
-    /*background-image: linear-gradient(to bottom,#943943 0,#7d0512 100%);*/
-    background-image: none;
-    background-color: #f2f1eb;
+    /* margin-top: -50px; */
+    /* background: url("../images/header_light_colored.jpg"); */
+    /* background-position: bottom; */
+    /* background-image: none; */
+    background-color: #e9e6df;
+    /* border-top: 1px #e3dfd5 solid; */
+    /* border-top: none; */
+    /* border-bottom: 1px #e3dfd5 solid; */
+    /* border-bottom: none; */
     border: none;
 }
 .navbar-default .navbar-brand {
@@ -466,11 +472,11 @@ h6 {
   border-radius: 3px;
 }
 
-.alert-info {
+/* .alert-info {
   color: #73623f;
   background-color: #e9e6df;
   border-color: #e3dfd5;
-}
+} */
 
 td h6 {
   margin-top: 0;

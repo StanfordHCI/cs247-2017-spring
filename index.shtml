@@ -23,14 +23,14 @@
 
 		<div id="syllabus">
 
-			<div class="alert alert-info" role="alert">
-				<p>Enrollment limited to 40 students based on an application to be given out the first day of class. Please come to the first class on Monday, April 3rd.</p>
-			</div>
-
 			<p class="lead">
 				This class will deepen your fluency with design for interactive technology. You will engage hands-on in a design studio environment with expert designers, learning to critique and be critiqued by leaders who hold years of experience. Along the way,
 				you'll learn advanced techniques for needfinding, rapid prototyping, visual design, and interaction design.
 			</p>
+
+			<div class="alert alert-info" role="alert">
+				<p>Enrollment limited to 40 students based on an application to be given out the first day of class. <strong>Please come to the first class on Monday, April 3rd at Lathrop 282.</strong></p>
+			</div>
 
 			<hr>
 
@@ -40,17 +40,17 @@
 				<div class="col-sm-4">
 										<ul class="list-unstyled">
 						<h5>Instructors</h5>
-						
+
 						<li><a href="//graphics.stanford.edu/~maneesh/">Prof. Maneesh Agrawala</a> <br>
 							<span class="text-muted"><small>To be determined, Gates 364</small></span>
 						<li><a href="//hmslydia.com">Prof. Lydia Chilton</a>  <br>
-							<span class="text-muted"><small>To be determined, Gates 382</small></span></li>	
-					</ul>	
+							<span class="text-muted"><small>To be determined, Gates 382</small></span></li>
+					</ul>
 
 
-					
 
-					
+
+
 				</div>
 
 				<div class="col-sm-4">
@@ -77,7 +77,7 @@
 		<hr>
 
 		<!-- <h3>Calendar</h3> -->
-		<div class="row">
+<!-- 		<div class="row">
 			<div class="col-sm-12">
 				<div class="hidden-xs">
 					<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;wkst=2&amp;bgcolor=%23fbfbf9&amp;src=stanford.edu_au5u6un56ai57128du0o34095k%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
@@ -88,7 +88,7 @@
 			</div>
 		</div>
 
-		<hr>
+		<hr> -->
 
 		<h5>Learning goals</h5>
 		<ul id="learning-goals">
@@ -117,139 +117,139 @@
 						<tr>
 							<td class="hidden-xs"><h6>1</h6></td>
 							<td>
-								<h6>January 9</h6>
-								<p>Class intro & studios: <a href="slides/01-intro-crit.pdf">slides</a></p>
+								<h6>April 3</h6>
+								<!-- <p>Class intro & studios: <a href="slides/01-intro-crit.pdf">slides</a></p>
 
 								<a href="https://docs.google.com/forms/d/e/1FAIpQLScbBH9chEdti_WSLDXOzxJgNYmcdFtYv2ErJHkuzQNuU0sl2g/viewform">Sign up for studios</a> by 11:59pm<br>
-								<a href="projects/p1.shtml">P1 (Critique)</a> out
+								<a href="projects/p1.shtml">P1 (Critique)</a> out -->
 							</td>
 							<td>
-								<h6>January 13</h6>
-								<p>
+								<h6>April 5</h6>
+								<!-- <p>
 									Sketching: <a href="slides/02-sketching.pdf">slides</a> <br>
 									Reading: <a href="readings/understanding_comics.pdf">Understanding Comics</a>
 								</p>
 								<a href="projects/p1.shtml">P1 (Critique)</a> due<br>
-								<a href="projects/p2.shtml">P2 (Needfinding)</a> out
+								<a href="projects/p2.shtml">P2 (Needfinding)</a> out -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>2</h6></td>
 							<td>
-								<h6>January 16</h6>
-								<em class="text-muted">No class; MLK day</em>
+								<h6>April 10</h6>
+								<!-- <em class="text-muted">No class; MLK day</em> -->
 							</td>
 							<td>
-								<h6>January 20</h6>
-								<p>Needfinding observation vs. interpretation: <a href="slides/03-needfinding.pdf">slides</a> </p>
-								<a href="projects/p2-1.shtml">P2 part I</a> due
+								<h6>April 12</h6>
+								<!-- <p>Needfinding observation vs. interpretation: <a href="slides/03-needfinding.pdf">slides</a> </p>
+								<a href="projects/p2-1.shtml">P2 part I</a> due -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>3</h6></td>
 							<td>
-								<h6>January 23</h6>
-								Interviewing: <a href="slides/04-interviewing.pdf">slides</a>
+								<h6>April 17</h6>
+								<!-- Interviewing: <a href="slides/04-interviewing.pdf">slides</a> -->
 							</td>
 							<td>
-								<h6>January 27</h6>
-								<p>Brainstorming: <a href="slides/05-brainstorming.pdf">slides</a></p>
+								<h6>April 19</h6>
+								<!-- <p>Brainstorming: <a href="slides/05-brainstorming.pdf">slides</a></p>
 								<a href="projects/p2-2.shtml">P2 part II</a> due<br>
-								<a href="projects/p3.shtml">P3 (Design Sprint)</a> out
+								<a href="projects/p3.shtml">P3 (Design Sprint)</a> out -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>4</h6></td>
 							<td>
-								<h6>January 30</h6>
-								Picking prototypes: <a href="slides/06-picking-prototypes.pdf">slides</a>
+								<h6>April 24</h6>
+								<!-- Picking prototypes: <a href="slides/06-picking-prototypes.pdf">slides</a> -->
 							</td>
 							<td>
-								<h6>February 3 </h6>
-								<p>Parallel prototyping: <a href="slides/07-parallel-prototyping.pdf">slides</a>, <a href="slides/07-parallel-prototyping-activity.pdf">activity</a></p>
-								<a href="projects/p3-1.shtml">P3 Part I</a> soft due
+								<h6>April 26</h6>
+								<!-- <p>Parallel prototyping: <a href="slides/07-parallel-prototyping.pdf">slides</a>, <a href="slides/07-parallel-prototyping-activity.pdf">activity</a></p>
+								<a href="projects/p3-1.shtml">P3 Part I</a> soft due -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>5</h6></td>
 							<td>
-								<h6>February 6</h6>
-								Rapid prototyping: <a href="slides/08-rapid-prototyping.pdf">slides</a>
+								<h6>May 1</h6>
+								<!-- Rapid prototyping: <a href="slides/08-rapid-prototyping.pdf">slides</a> -->
 							</td>
 							<td>
-								<h6>February 10 </h6>
-								<p>P3 studio work day</p>
-								<a href="projects/p3-2.shtml">P3 Part II</a> soft due<br>
+								<h6>May 3 </h6>
+								<!-- <p>P3 studio work day</p>
+								<a href="projects/p3-2.shtml">P3 Part II</a> soft due<br> -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>6</h6></td>
 							<td>
-								<h6>February 13 </h6>
-								<p>
+								<h6>May 8 </h6>
+								<!-- <p>
 									<a href="projects/p3-3.shtml">P3 Part III</a> and all earlier parts
 									<a href="projects/p3.shtml">P3 (Design Sprint)</a> due
 								</p>
-								<a href="projects/p4.shtml">P4 (Final Project)</a> out
+								<a href="projects/p4.shtml">P4 (Final Project)</a> out -->
 							</td>
 							<td>
-								<h6>February 17</h6>
-								Mocks: <a href="slides/09-information-design.pdf">slides</a>, <a href="exercises/index.shtml">design exercise</a>
+								<h6>May 10</h6>
+								<!-- Mocks: <a href="slides/09-information-design.pdf">slides</a>, <a href="exercises/index.shtml">design exercise</a> -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>7</h6></td>
 							<td>
-								<h6>February 20</h6>
-								<em class="text-muted">No class; Presidents' Day</em>
+								<h6>May 15</h6>
+								<!-- <em class="text-muted">No class; Presidents' Day</em> -->
 							</td>
 							<td>
-								<h6>February 24</h6>
-								Layout: <a href="slides/10-grids.pdf">slides</a>
+								<h6>May 17</h6>
+								<!-- Layout: <a href="slides/10-grids.pdf">slides</a> -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>8</h6></td>
 							<td>
-								<h6>February 27</h6>
-								Visual design: <a href="slides/baxley-grids-typography.pdf">slides</a> <span class="label label-detail">40MB !</span>
+								<h6>May 22</h6>
+								<!-- Visual design: <a href="slides/baxley-grids-typography.pdf">slides</a> <span class="label label-detail">40MB !</span> -->
 							</td>
 							<td>
-								<h6>March 3 <span class="label label-warning">suggested due date</span></h6>
-								<p>Guest lecturer: <a href="http://www.tomchi.com">Tom Chi</a></p>
-								<a href="projects/p4-1.shtml">P4 Part I</a> soft due
+								<h6>May 24 <!-- <span class="label label-warning">suggested due date</span> --></h6>
+								<!-- <p>Guest lecturer: <a href="http://www.tomchi.com">Tom Chi</a></p> -->
+								<!-- <a href="projects/p4-1.shtml">P4 Part I</a> soft due -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>9</h6></td>
 							<td>
-								<h6>March 6</h6>
-								Social computing: <a href="slides/11-social.pdf">slides</a>
+								<h6>May 29</h6>
+								<!-- Social computing: <a href="slides/11-social.pdf">slides</a> -->
 							</td>
 							<td>
-								<h6>March 10</h6>
-								<p>Guest lecturer: <a href="http://www.imdb.com/name/nm1106273/">Ari Sachter-Zeltzer</a></p>
+								<h6>May 31</h6>
+								<!-- <p>Guest lecturer: <a href="http://www.imdb.com/name/nm1106273/">Ari Sachter-Zeltzer</a></p> -->
 							</td>
 						</tr>
 
 						<tr>
 							<td class="hidden-xs"><h6>10</h6></td>
 							<td>
-								<h6>March 13</h6>
-								<p>Guest lecturer: <a href="http://www.lukew.com">Luke Wroblewski</a></p>
+								<h6>June 5</h6>
+								<!-- <p>Guest lecturer: <a href="http://www.lukew.com">Luke Wroblewski</a></p> -->
 							</td>
 							<td>
-								<h6>March 17 <span class="label label-danger">due date</span></h6>
-								<p>No class—<a href="finalpresentations.shtml">Final Presentations at 5:30pm in the d.school</a></p>
-								<a href="projects/p4.shtml">P4 (Final Project)</a> due
+								<h6>June 7 <!-- <span class="label label-danger">due date</span> --></h6>
+								<!-- <p>No class—<a href="finalpresentations.shtml">Final Presentations at 5:30pm in the d.school</a></p> -->
+								<!-- <a href="projects/p4.shtml">P4 (Final Project)</a> due -->
 
 							</td>
 						</tr>
