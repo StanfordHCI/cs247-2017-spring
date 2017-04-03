@@ -42,11 +42,11 @@
 						<h5>Instructors</h5>
 
 						<li><a href="//graphics.stanford.edu/~maneesh/">Prof. Maneesh Agrawala</a> <br>
-							<span class="text-muted"><small>Mondays 3:30-4:30, Gates 364</small></span>
+							<span class="text-muted"><small>Mondays 3:30–4:30, Gates 364</small></span>
 						<li><a href="//hmslydia.com">Prof. Lydia Chilton</a>  <br>
-	
-							<span class="text-muted"><small>Fridays 1:30-2:30, Gates 382</small></span></li>	
-					</ul>	
+
+							<span class="text-muted"><small>Fridays 1:30–2:30, Gates 382</small></span></li>
+					</ul>
 
 
 
@@ -58,10 +58,10 @@
 					<h5>TAs</h5>
 					<ul class="list-unstyled">
 						<li>Ludwig Schubert <br>
-							<span class="text-muted"><small>TBD, TBD</small></span>
+							<span class="text-muted"><small>Tuesdays 9–10am, Huang Basement</small></span>
 						</li>
 						<li>Aaron Loh <br>
-							<span class="text-muted"><small>Tuesdays 7-8pm, Huang Basement</small></span>
+							<span class="text-muted"><small>Tuesdays 7–8pm, Huang Basement</small></span>
 						</li>
 					</ul>
 				</div>
@@ -120,20 +120,23 @@
 							<td>
 								<h6>April 3</h6>
 								<p>Class intro & Critique</p>
+								<a href="projects/p1.shtml">A1 (Critique)</a> out<br>
 								<!-- <p>Class intro & studios: <a href="slides/01-intro-crit.pdf">slides</a></p>
 
 								<a href="https://docs.google.com/forms/d/e/1FAIpQLScbBH9chEdti_WSLDXOzxJgNYmcdFtYv2ErJHkuzQNuU0sl2g/viewform">Sign up for studios</a> by 11:59pm<br>
-								<a href="projects/p1.shtml">P1 (Critique)</a> out -->
+								<a class="disabled" href="projects/p1.shtml">P1 (Critique)</a> out -->
 							</td>
 							<td>
-								<h6>April 5</h6>
+								<h6>April 5 <span class="label label-danger">due date</span> </h6>
 								<p>Needfinding</p>
+								<a class="disabled" href="projects/p1.shtml">A1 (Critique)</a> due<br>
+								<a class="disabled" href="projects/p2-1.shtml">A2.1 (Needfinding)</a> out<br>
 								<!-- <p>
 									Sketching: <a href="slides/02-sketching.pdf">slides</a> <br>
 									Reading: <a href="readings/understanding_comics.pdf">Understanding Comics</a>
 								</p>
-								<a href="projects/p1.shtml">P1 (Critique)</a> due<br>
-								<a href="projects/p2.shtml">P2 (Needfinding)</a> out -->
+								<a class="disabled" href="projects/p1.shtml">P1 (Critique)</a> due<br>
+								<a class="disabled" href="projects/p2.shtml">P2 (Needfinding)</a> out -->
 							</td>
 						</tr>
 
@@ -147,8 +150,10 @@
 							<td>
 								<h6>April 12</h6>
 								<p>Interviewing</p>
+								<a class="disabled" href="projects/p2-1.shtml">A2.1 (Needfinding)</a> due<br>
+								<a class="disabled" href="projects/p2-2.shtml">A2.2 (Needfinding)</a> out<br>
 								<!-- <p>Needfinding observation vs. interpretation: <a href="slides/03-needfinding.pdf">slides</a> </p>
-								<a href="projects/p2-1.shtml">P2 part I</a> due -->
+								<a class="disabled" href="projects/p2-1.shtml">P2 part I</a> due -->
 							</td>
 						</tr>
 
@@ -162,9 +167,11 @@
 							<td>
 								<h6>April 19</h6>
 								<p>Picking Prototypes</p>
+								<a class="disabled" href="projects/p2-2.shtml">A2.2 (Needfinding)</a> due<br>
+								<a class="disabled" href="projects/p3-1.shtml">A3.1 (Prototyping)</a> out<br>
 								<!-- <p>Brainstorming: <a href="slides/05-brainstorming.pdf">slides</a></p>
-								<a href="projects/p2-2.shtml">P2 part II</a> due<br>
-								<a href="projects/p3.shtml">P3 (Design Sprint)</a> out -->
+								<a class="disabled" href="projects/p2-2.shtml">P2 part II</a> due<br>
+								<a class="disabled" href="projects/p3.shtml">P3 (Design Sprint)</a> out -->
 							</td>
 						</tr>
 
@@ -178,8 +185,10 @@
 							<td>
 								<h6>April 26</h6>
 								<p>Rapid Prototyping</p>
+								<a class="disabled" href="projects/p3-1.shtml">A3.1 (Prototyping)</a> due<br>
+								<a class="disabled" href="projects/p3-2.shtml">A3.2 (Prototyping)</a> out<br>
 								<!-- <p>Parallel prototyping: <a href="slides/07-parallel-prototyping.pdf">slides</a>, <a href="slides/07-parallel-prototyping-activity.pdf">activity</a></p>
-								<a href="projects/p3-1.shtml">P3 Part I</a> soft due -->
+								<a class="disabled" href="projects/p3-1.shtml">P3 Part I</a> soft due -->
 							</td>
 						</tr>
 
@@ -188,13 +197,17 @@
 							<td>
 								<h6>May 1</h6>
 								<p>Work Day</p>
+								<a class="disabled" href="projects/p3-2.shtml">A3.2 (Prototyping)</a> due<br>
+								<a class="disabled" href="projects/p3-3.shtml">A3.3 (Prototyping)</a> out<br>
 								<!-- Rapid prototyping: <a href="slides/08-rapid-prototyping.pdf">slides</a> -->
 							</td>
 							<td>
 								<h6>May 3 </h6>
 								<p>A3 Feedback</p>
+								<a class="disabled" href="projects/p3-3.shtml">A3.3 (Prototyping)</a> due<br>
+								<a class="disabled" href="projects/p4-1.shtml">A4.1</a> out<br>
 								<!-- <p>P3 studio work day</p>
-								<a href="projects/p3-2.shtml">P3 Part II</a> soft due<br> -->
+								<a class="disabled" href="projects/p3-2.shtml">P3 Part II</a> soft due<br> -->
 							</td>
 						</tr>
 
@@ -204,10 +217,10 @@
 								<h6>May 8 </h6>
 								<p>Mocks</p>
 								<!-- <p>
-									<a href="projects/p3-3.shtml">P3 Part III</a> and all earlier parts
-									<a href="projects/p3.shtml">P3 (Design Sprint)</a> due
+									<a class="disabled" href="projects/p3-3.shtml">P3 Part III</a> and all earlier parts
+									<a class="disabled" href="projects/p3.shtml">P3 (Design Sprint)</a> due
 								</p>
-								<a href="projects/p4.shtml">P4 (Final Project)</a> out -->
+								<a class="disabled" href="projects/p4.shtml">P4 (Final Project)</a> out -->
 							</td>
 							<td>
 								<h6>May 10</h6>
@@ -235,13 +248,15 @@
 							<td>
 								<h6>May 22</h6>
 								<p>TBA</p>
+								<a class="disabled" href="projects/p4-1.shtml">A4.1</a> due<br>
+								<a class="disabled" href="projects/p4-2.shtml">A4.2</a> out<br>
 								<!-- Visual design: <a href="slides/baxley-grids-typography.pdf">slides</a> <span class="label label-detail">40MB !</span> -->
 							</td>
 							<td>
 								<h6>May 24 <!-- <span class="label label-warning">suggested due date</span> --></h6>
 								<p>TBA</p>
 								<!-- <p>Guest lecturer: <a href="http://www.tomchi.com">Tom Chi</a></p> -->
-								<!-- <a href="projects/p4-1.shtml">P4 Part I</a> soft due -->
+								<!-- <a class="disabled" href="projects/p4-1.shtml">P4 Part I</a> soft due -->
 							</td>
 						</tr>
 
@@ -264,13 +279,14 @@
 							<td>
 								<h6>June 5</h6>
 								<p>Final Presentations</p>
+								<a class="disabled" href="projects/p4-2.shtml">A4.2</a> due<br>
 								<!-- <p>Guest lecturer: <a href="http://www.lukew.com">Luke Wroblewski</a></p> -->
 							</td>
 							<td>
 								<h6>June 7 <!-- <span class="label label-danger">due date</span> --></h6>
 								<p>Wrap-Up</p>
 								<!-- <p>No class—<a href="finalpresentations.shtml">Final Presentations at 5:30pm in the d.school</a></p> -->
-								<!-- <a href="projects/p4.shtml">P4 (Final Project)</a> due -->
+								<!-- <a class="disabled" href="projects/p4.shtml">P4 (Final Project)</a> due -->
 
 							</td>
 						</tr>

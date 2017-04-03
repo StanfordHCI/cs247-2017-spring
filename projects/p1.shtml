@@ -74,32 +74,33 @@
 
                 <div id="interactiveExplanations" class="sidenav-anchor">
                     <h2>Interactive Explanations</h2>
-                    <p>Interactive Explanations are an emerging web trend to explain concepts using a combination of text and interactive visual elements to make the explanation more vivid and engaging for users. Here are two sites with professional examples:</p>
-
-                    <ul>
+                    <p>
+                        Interactive Explanations are an emerging web trend to explain concepts using a combination of text and interactive visual elements to make the explanation more vivid and engaging for users. Here are two sites with professional examples:</p>
+                    <p>
+                    <ul class="su-list">
                         <li><a href="http://distill.pub/" target="_">Distill</a> The mission of Distill is to recognizing outstanding work communicating and refining ideas in Machine Learning and adjacent topics. They are giving annual prizes of $10,000 for novel interactive explanations.</li>
                         <li><a href="http://explorableexplanations.com/" target="_">Explorable Explanations</a> A collection of interactive explanations on a variety of scientific concepts from many different authors.</li>
                     </ul>
 
-                    <p>
-                    The goal of an interactive explanation is to teach an idea primarily through the reader experiencing the concept, not through reading about it. 
+
+                    The goal of an interactive explanation is to teach an idea primarily through the reader experiencing the concept, not through reading about it.
                     </p>
                 </div>
 
 
                 <div id="prep" class="sidenav-anchor">
                     <h2>Details</h2>
-                    You will author <b>two critiques</b> for this assignment. 
-                    <ul>
+                    You will author <b>two critiques</b> for this assignment.
+                    <ul class="su-list">
                     <li>
-                    For the first critique, pick an interactive explanation from one of the two websites listed about. Write a critique that addresses the goal of "teaching through interaction."</li>
+                    For the first critique, pick an interactive explanation from one of the two websites listed about. Write a critique that addresses the goal of "teaching through interaction." (Do not use the explanation discussed in class, "The Parable of the Polygons".)</li>
 
                     <li>For the second critique, pick an interface that you created, perhaps in CS 147. Tell us the high level goal of your application and write a critque based on that goal.</li>
 </ul>
                     <p>Critique each interface. Each critique should be no more than 300 words. Feel free to use a combination of text and visuals. Remember that a critique is more than a usability inspection. Please begin each critique with a full page screengrab of the interface so that we can see it clearly.</p>
 
                     <p>Finally, write up one paragraph answering the following questions:
-                        <ul>
+                        <ul class="su-list">
                             <li>Is your assessment subjective?</li>
                             <li>Do you think the subjectivity invalidates your assessment?</li>
                         </ul>
