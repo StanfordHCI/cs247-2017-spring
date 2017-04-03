@@ -74,7 +74,7 @@
 
                 <div id="interactiveExplanations" class="sidenav-anchor">
                     <h2>Interactive Explanations</h2>
-                    <p>Interactive Explanations are an emerging web trend to explain concepts in using a combination of text and interactive elements to make the explanation more vivid and engaging for users. Here are two sites with professional examples:</p>
+                    <p>Interactive Explanations are an emerging web trend to explain concepts using a combination of text and interactive visual elements to make the explanation more vivid and engaging for users. Here are two sites with professional examples:</p>
 
                     <ul>
                         <li><a href="http://distill.pub/" target="_">Distill</a> The mission of Distill is to recognizing outstanding work communicating and refining ideas in Machine Learning and adjacent topics. They are giving annual prizes of $10,000 for novel interactive explanations.</li>
@@ -92,7 +92,7 @@
                     You will author <b>two critiques</b> for this assignment. 
                     <ul>
                     <li>
-                    For the first critique, pick an interactive explanation from one of the two websites listed about. Write a critique that addresses the goal of "teaching through interaction, not written exposition."</li>
+                    For the first critique, pick an interactive explanation from one of the two websites listed about. Write a critique that addresses the goal of "teaching through interaction."</li>
 
                     <li>For the second critique, pick an interface that you created, perhaps in CS 147. Tell us the high level goal of your application and write a critque based on that goal.</li>
 </ul>

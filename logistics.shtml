@@ -63,7 +63,7 @@
   				</div>
   				<div id="submission-procedure" class="sidenav-anchor">
   				  <h4>Submission Procedure</h3>
-  				  <p>To submit an assignment, go to <a href="https://canvas.stanford.edu">canvas.stanford.edu</a>. From there, go to CS247 (either from clicking on CS247 from the Dashboard or by clicking on Courses). Then click on <b>Assignments</b> -> <b>P1 (for example)</b> (left menu) -> <b>Submit Assignment</b> (top right).</p>
+  				  <p>To submit an assignment, go to <a href="https://canvas.stanford.edu">canvas.stanford.edu</a>. From there, go to CS247 (either from clicking on CS247 from the Dashboard or by clicking on Courses). Then click on <b>Assignments</b> -> <b>A1 (for example)</b> (left menu) -> <b>Submit Assignment</b> (top right).</p>
   				  <p>After uploading your file, click <b>Submit Assignment</b>.</p>
   				  <p>For group submissions, only one member needs to submit the deliverables for the whole group.</p>
   				</div>
@@ -73,10 +73,10 @@
   					<ul>
                 			<li>Assignments: 90pts
                 				<ul>
-                					<li>P1: 5pts</li>
-                					<li>P2: 20pts</li>
-                					<li>P3: 25pts</li>
-                					<li>P4: 40pts</li>
+                					<li>A1: 5pts</li>
+                					<li>A2: 20pts</li>
+                					<li>A3: 25pts</li>
+                					<li>A4: 40pts</li>
                 				</ul>
                 			</li>
   						<li>Participation: 10pts (5pts for studio participation, 5pts for team participation)</li>
@@ -129,7 +129,7 @@
   		  					<strong>The class uses HTML and Javascript. Can our group use iOS programming?</strong>
 		  				</div>
 		  				<div class="col-md-8">
-		  					<p>We recommend against it. We choose technologies that give you a lot of interaction power for very little upfront co  st. Others can   take many hour  s   to get running. Most g  roup problems arise when one   person strongarms their teammates into using another technology. Late in the quarter, it turns out that only one person can really do the wo  rk, and that ca  uses all the problems you can i  magine. If you use the technology stack we teach, we will teach you key techniques and the TAs will help you if you get stuck. With other technologies, you're off-piste: we can't save you, and it can get awfully cold when the sun goes down. With that information, the choice is yours.</p>
+		  					<p>We recommend against it. We choose technologies that give you a lot of interaction power for very little upfront cost. Others can   take many hours   to get running. Most group problems arise when one   person strongarms their teammates into using another technology. Late in the quarter, it turns out that only one person can really do the work, and that ca  uses all the problems you can i  magine. If you use the technology stack we teach, we will teach you key techniques and the TAs will help you if you get stuck. With other technologies, you're off-piste: we can't save you, and it can get awfully cold when the sun goes down. With that information, the choice is yours.</p>
 		  				</div>
 					</div>
 
@@ -144,10 +144,10 @@
 
 					<div class="row">
 						<div class="col-md-4">
-		  					<strong>When d  oes the class m  eet?</strong  >
+		  					<strong>When does the class meet?</strong  >
 		  				</div>
 		  			  	<div class="col-md-8">
-		  	  				<p>Mondays and Fridays, 3:30-5:20.  There is n  o separate time   for studio; studio meetings wi  ll happen during regular class hours. Class does not meet Wednesday.</p>
+		  	  				<p>Mondays and Wednesday, 1:30-3:20.  There is no separate time   for studio; studio meetings will happen during regular class hours. Class does not meet Friday.</p>
 		  				</div>
 		  			</div>
 
@@ -156,7 +156,7 @@
 		  					<strong>Can I have an extension? I have a lot of work in other classes, I'll be out of town, I'm generally overwhelmed...</strong>
 		  				</div>
 		  				<div class="col-md-8">
-		  					<p>No. It's not because we're callous &mdash; we've all been in your shoes. Two reasons: 1) because sharing wo  rk in studio is   integral to     the class, there's no p  ractical way to offer extensi  ons. 2) Psychology teaches us that people consistently believe they'll have more time   in the future   than in the present -- and that   it's a fallacy. When you pick classes for the quarter, make sure not to overcommit. In our experience, you'll learn more and have a better resume by doing a great job in a smaller of classes, rather than trying to take as many units as humanly possible and doing a mediocre job with all of it.</p>
+		  					<p>No. It's not because we're callous &mdash; we've all been in your shoes. Two reasons: 1) because sharing work in studio is   integral to     the class, there's no p  ractical way to offer extensi  ons. 2) Psychology teaches us that people consistently believe they'll have more time   in the future   than in the present -- and that   it's a fallacy. When you pick classes for the quarter, make sure not to overcommit. In our experience, you'll learn more and have a better resume by doing a great job in a smaller of classes, rather than trying to take as many units as humanly possible and doing a mediocre job with all of it.</p>
 		  				</div>
 					</div>
 
@@ -165,7 +165,7 @@
 		  					<strong>When do we form groups?</strong>
 		  				</div>
 		  				<div class="col-md-8">
-		  					<p>You will form groups within the studio as each new group assignment begins. Depending on the assignment, we will either assign teams, or let you choose. We will strongly encourage you to form new groups for   each new group assignments. During team   formation make sure to ask yo  ur potential teammates two questions. 1) When are you   available to me  et? 2) What level of performanc  e to you intend to achieve? This will help you find like-minded teammates.</p>
+		  					<p>You will form groups within the studio as each new group assignment begins. Depending on the assignment, we will either assign teams, or let you choose. We will strongly encourage you to form new groups for   each new group assignments. During team   formation make sure to ask your potential teammates two questions. 1) When are you   available to meet? 2) What level of performance to you intend to achieve? This will help you find like-minded teammates.</p>
 		  				</div>
 					</div>
 
@@ -174,7 +174,7 @@
 		  					<strong>One or more of my teammates aren't pulling their weight...</strong>
 		  				</div>
 		  				<div class="col-md-8">
-		  					<p>In classes as in life, some team problems are inevitable. As soon as you encounter subpar performance by a teammate: talk to them and accurately record their performance in your team assessment. There are many benefits to speaking up early. First, you've made your expectations clear so your teammate can adjust their performance. Second, it's on record in case things get worse later. Past performance is the best predictor of future performance, and transparency is the best management tool. If you speak up early, we can help. If   you wait until   late in the   q  uarter to speak up,   you share responsibility f  or the problem &mdash; and there's little we can do.</p>
+		  					<p>In classes as in life, some team problems are inevitable. As soon as you encounter subpar performance by a teammate: talk to them and accurately record their performance in your team assessment. There are many benefits to speaking up early. First, you've made your expectations clear so your teammate can adjust their performance. Second, it's on record in case things get worse later. Past performance is the best predictor of future performance, and transparency is the best management tool. If you speak up early, we can help. If   you wait until   late in the   quarter to speak up,   you share responsibility for the problem &mdash; and there's little we can do.</p>
 		  				</div>
 					</div>
 
@@ -183,7 +183,7 @@
 		    					<strong>...Can I fire them or quit?</strong>
 		  				</div>
 		  				<div class="col-md-8">
-                  			<p>If you have a serious problem with your teammate(s), email them with your concerns, cc'ing   your TA, s  tudio inst  r  uctor, or professor,   requesting that the team at  tend office hours to discuss the issue. If this discussion doesn't ameliorate the issue, you may notify your teammate(s) via email   (cc'ding the   instructor) of your intentio  n to quit/fire them unless performance improves. Finally, if performance doesn't improve, you may email your teammate(s) (cc'ing the instructor) with your resignation/firing. A teammate who quits or is fired is responsible for future assignments on their own. <a href=http://spark-public.s3.amazonaws.com/hci/other_ressources/OakleyHitchhikers2004.pdf>This short     essay by Oakley et al.</a> provides great advice on diagnosing 'hitchhikers' and dealing with them effectively.</p>
+                  			<p>If you have a serious problem with your teammate(s), email them with your concerns, cc'ing   your TA, studio instructor, or professor,   requesting that the team at  tend office hours to discuss the issue. If this discussion doesn't ameliorate the issue, you may notify your teammate(s) via email   (cc'ding the   instructor) of your intention to quit/fire them unless performance improves. Finally, if performance doesn't improve, you may email your teammate(s) (cc'ing the instructor) with your resignation/firing. A teammate who quits or is fired is responsible for future assignments on their own. <a href=http://spark-public.s3.amazonaws.com/hci/other_ressources/OakleyHitchhikers2004.pdf>This short     essay by Oakley et al.</a> provides great advice on diagnosing 'hitchhikers' and dealing with them effectively.</p>
   		  				</div>
   					</div>
 
