@@ -27,17 +27,13 @@
 
   				<p>CS 147 or equivalent experience in design thinking is the first prerequisite for this course. This class moves quickly and assumes that you already have learned the basics of the design process and have executed a significant design project previously. This class focuses deeply on subsets of the design process. If you have never taken a design or HCI course, you could probably understand the content but you would not be well prepared to integrate it into the broader process.</p>
 
-  				<p>CS 142 or equivalent web programming experience in HTML, Javascript and CSS is the second prerequisite for this course. The prerequisite exists because all students will need some fluency in building interactive web sites to complete the project. Every student must make a significant contribution to their team's implementation; students who are unable to do so should not take the class. That said, some may do more of the programming work, and others more of the user testing work. Project teams will benefit from being multidisciplinary.</p>
+  				<p>CS 142 or equivalent web programming experience in HTML, Javascript and CSS is the second prerequisite for this course. The prerequisite exists because all students will need some fluency in building interactive web sites to complete the assignments. Every student must make a significant contribution to their team's implementation; students who are unable to do so should not take the class. That said, some may do more of the programming work, and others more of the user testing work. Teams will benefit from being multidisciplinary.</p>
   			</div>
 
   			<div id='laptop' class='sidenav-anchor'>
   				<h3>Bring a sketchbook, pen and laptop</h3>
-  					<p>Buy a sketchbook and pen as described in Project 2, and bring it with you to all class meetings. Use it liberally, in and out of class.</p>
-  					<p>Here are some local Art Supplies stores where you can snag those sketchbooks:</p>
-  					    <ul>
-                                <li>University Art<p>2550 El Camino Real, Redwood City, CA 94061<p></li>
-                                <li>Accent Art<p>392 California Avenue, Palo Alto, CA 94306</p></li>
-  					    </ul>
+  					<p>Buy a sketchbook and pen as described in Assignment 2, and bring it with you to all class meetings. Use it liberally, in and out of class.</p>
+ 
   					<p>
   					Bring a laptop to class. This is a course requirement because of the hands-on work we'll do. If the laptop's battery won't last the whole class, arrive early to get a seat near a plug. (And you may want to bring an extension cord.) Please restrict your laptop use to class-relevant activities, like doing the exercises or taking notes. No Facebook, email, etc. Why? It distracts other students, not just you.
   					</p>
@@ -51,7 +47,7 @@
   				<p>Each studio has selected a topic. Choosing a studio thus means choosing a topic for many projects in this course. Choosing a studio also means picking out a potential mentor. Weigh and integrate the two to make your choice!</p>
   				-->
 
-  				<p>Studios will provide you an opportunity to meet in smaller groups in order to discuss and reflect on assignments and project progress. They will focus on interactive critique sessions, as well as specific activities intended to supplement and expand on ideas from lectures.</p>
+  				<p>Studios will provide you an opportunity to meet in smaller groups in order to discuss and reflect on assignments and progress. They will focus on interactive critique sessions, as well as specific activities intended to supplement and expand on ideas from lectures.</p>
 
   				<p>Students must sign up for their studio on the first day of class.</p>
   			</div>
@@ -61,7 +57,7 @@
 
   				<div id="deliverables" class="sidenav-anchor">
   					<h4>Deliverables</h4>
-  					<p>The class consists of four projects (P1&ndash;P4). Projects will have intermediate deadlines where we can give you feedback. These deadlines will give credit for submitting a complete milestone, but will also receive a check-minus/check/check-plus evaluation as you consider how to move forward. You will share progress and deliverables in studio. The final project culminates in a presentation and poster at the end of the quarter in front of invited design jurors.</p>
+  					<p>The class consists of four Assignments. Assignments will have intermediate deadlines where we can give you feedback. These deadlines will give credit for submitting a complete milestone, but will also receive a check-minus/check/check-plus evaluation as you consider how to move forward. You will share progress and deliverables in studio. The final assignment culminates in a presentation and poster at the end of the quarter in front of invited design jurors.</p>
   					<p>Late assignments will not be accepted. There are two reasons that assignments need to be submitted on time. First, to be able to provide you with rapid feedback about your work, the teaching staff begins looking at assignments immediately. Second, you'll present your work in studio, and you need to be prepared to participate.</p>
   					<p>There are rubrics beneath each assignment that explain how you and the staff will grade your submission. Different columns represent different scores.</p>
   				</div>
@@ -75,7 +71,7 @@
   					<h4>Grade breakdown</h4>
               		<p>The course grade is broken down as:</p>
   					<ul>
-                			<li>Projects: 90pts
+                			<li>Assignments: 90pts
                 				<ul>
                 					<li>P1: 5pts</li>
                 					<li>P2: 20pts</li>
@@ -124,7 +120,7 @@
   		  					<strong>What's the amount of time involved in the class?</strong>
   		  				</div>
   		  				<div class="col-md-8">
-  		  					<p>There's a healthy amount of work involved. As with any design experience, you get out what you put in. Great projects explore broadly and dive deep, and needfinding, design, implementation and evaluation take time to do well. Projects will escalate in terms of ambition throughout the quarter. Expect that the final project will be a major effort in the last few weeks of class.</p>
+  		  					<p>There's a healthy amount of work involved. As with any design experience, you get out what you put in. Great projects explore broadly and dive deep, and needfinding, design, implementation and evaluation take time to do well. Assignments will escalate in terms of ambition throughout the quarter. Expect that the final assignment will be a major effort in the last few weeks of class.</p>
   		  				</div>
   		  			</div>
 
@@ -169,7 +165,7 @@
 		  					<strong>When do we form groups?</strong>
 		  				</div>
 		  				<div class="col-md-8">
-		  					<p>You will form groups within the studio as each new group project begins. Depending on the assignment, we will either assign teams, or let you choose. We will strongly encourage you to form   new groups for   each new gro  u  p project. During team   formation make sure to ask yo  ur potential teammates two questions. 1) When are you   available to me  et? 2) What level of performanc  e to you intend to achieve? This will help you find like-minded teammates.</p>
+		  					<p>You will form groups within the studio as each new group assignment begins. Depending on the assignment, we will either assign teams, or let you choose. We will strongly encourage you to form new groups for   each new group assignments. During team   formation make sure to ask yo  ur potential teammates two questions. 1) When are you   available to me  et? 2) What level of performanc  e to you intend to achieve? This will help you find like-minded teammates.</p>
 		  				</div>
 					</div>
 
@@ -196,7 +192,7 @@
   					<strong>I would like to take another class that overlaps this class. What should I know?</strong>
   				</div>
   				<div class="col-md-8">
-  					<p>Class attendance is required because the in-class material and exercises connect the principles taught through lecture to the design project work. In short: CS 247 is an attendance-required course.</p>
+  					<p>Class attendance is required because the in-class material and exercises connect the principles taught through lecture to the design work. In short: CS 247 is an attendance-required course.</p>
   				</div>
   			</div>
 
@@ -213,7 +209,7 @@
 
   			<div class="row">
   				<div class="col-md-4">
-    					<strong>My friends and I have a great idea we'd like to work on. Can we use it as our project?</strong>
+    					<strong>My friends and I have a great idea we'd like to work on. Can we use for an assignment project?</strong>
     				</div>
     				<div class="col-md-8">
     					<p>Design praxis means being open to currently unseen alternatives. If you have an idea for a project at the beginning of the class, give yourself the benefit of the doubt and set it aside. Explore around its edges. Trying to bend our rules to make your previous idea fit typically results in poor projects — not because your idea is bad, but that its current problems are not a good match for a design thinking course. Take it to an entrepreneurship class. At the end of the class, you will have acquired skills to execute your idea far more competently than you would right now.</p>
