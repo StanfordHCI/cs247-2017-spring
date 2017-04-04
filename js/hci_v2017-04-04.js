@@ -17,7 +17,7 @@ $(document).ready(function() {
     }
 
     // highlight current week
-    courseStart = new Date(2017,0,9)
+    courseStart = new Date(2017,3,3)
     startWeek = ISO8601_week_no(courseStart);
     today = new Date()
     currentWeek = ISO8601_week_no(today);

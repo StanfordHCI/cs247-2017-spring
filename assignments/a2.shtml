@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <!--#set var="title" value="CS 247 - Project 2: Needfinding" -->
+  <!--#set var="title" value="CS 247 - Assignment 2: Needfinding" -->
   <!--#include virtual="../includes/header.shtml" -->
 </head>
 
@@ -10,7 +10,7 @@
   <!--#include virtual="../includes/brandbar.html" -->
   <!--#include virtual="../includes/navigation.html" -->
 
-    <div class="project container">
+    <div class="assignment container">
         <div class="row">
             <div class="col-md-2">
                 <div class="sidenav" data-spy="affix" data-offset-top="80">
@@ -22,13 +22,13 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Project 2: Needfinding</h1>
+                        <h1>Assignment 2: Needfinding</h1>
                         <p class="lead">P2 focuses on advanced techniques and deliberate practice for needfinding.</p>
                     </div>
                 </div>
 
                 <div id="example" class="sidenav-anchor">
-                    <h2>Project Examples By Peers</h2>
+                    <h2>Assignment Examples By Peers</h2>
                     <p>We particularly liked <a href="/2017-spring/projects/examples/p2-example-1.pdf">this submission from the Cutting Edge studio</a> and <a href="/2017-spring/projects/examples/p2-example-2.pdf">this submission from the Leveling the Playing Field studio</a>.</p>
                 </div>
 
@@ -53,8 +53,8 @@
                 </div>
 
                 <div id="schedule" class="sidenav-anchor">
-                    <h2>Project Parts</h2>
-                    <p>Below is our recommended timeline for Project 2. These dates are the dates by which we recommend completing each milestone: keep in mind that <b>it may take several iterations of feedback on submissions before you and your team are ready to declare a milestone complete</b>. This schedule is a suggestion; we expect that some teams will take more time interating through some of these milestones and less time on others. All deadlines are as of the beginning of class.</p>
+                    <h2>Assignment Parts</h2>
+                    <p>Below is our recommended timeline for Assignment 2. These dates are the dates by which we recommend completing each milestone: keep in mind that <b>it may take several iterations of feedback on submissions before you and your team are ready to declare a milestone complete</b>. This schedule is a suggestion; we expect that some teams will take more time interating through some of these milestones and less time on others. All deadlines are as of the beginning of class.</p>
 
                     <div id="p2-1" class="sidenav-anchor">
                         <h5><a href="p2-1.shtml">Part I</a></h5>
