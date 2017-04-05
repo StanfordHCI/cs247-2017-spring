@@ -1,30 +1,51 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <!--#set var="title" value="CS 247 - Project 2: Needfinding I" -->
-  <!--#include virtual="../includes/header.shtml" -->
-</head>
+    <head>
+        <!--#set var="title" value="CS 247 - Project 2: Needfinding I" -->
+        <!--#include virtual="../includes/header.shtml" -->
+    </head>
 
-<body data-spy="scroll" data-target=".sidenav">
-  <!--#include virtual="../includes/brandbar.html" -->
-  <!--#include virtual="../includes/navigation.html" -->
+    <body data-spy="scroll" data-target=".sidenav">
+        <!--#include virtual="../includes/brandbar.html" -->
+        <!--#include virtual="../includes/navigation.html" -->
 
-    <div class="project container">
-        <div class="row">
-            <div class="col-md-2">
-                <div class="sidenav" data-spy="affix" data-offset-top="80">
-                    <ul class="nav nav-stacked" id="sidenav-content">
-                    </ul>
-                </div> <!-- /sidenav -->
-            </div> <!-- /col-md-3 -->
-            <div class="col-md-8" id="assignment-description">
+        <div class="project container">
+            <div class="row">
+                <div class="col-md-2">
+                    <div class="sidenav" data-spy="affix" data-offset-top="80">
+                        <ul class="nav nav-stacked" id="sidenav-content">
+                        </ul>
+                    </div> <!-- /sidenav -->
+                </div> <!-- /col-md-3 -->
+                <div class="col-md-8" id="assignment-description">
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <h1>Project 2: Needfinding</h1>
-                        <h4 style="color: #888888">Part I</h4>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1>Assignment 2: Needfinding</h1>
+                            <h4 style="color: #888888">Part I</h4>
+                        </div>
                     </div>
+
+                    <div id="prompt" class="sidenav-anchor">
+                        <h2>Prompt</h4>
+                        <p>Learner have many needs on their path to mastering new material. Some of the needs are obvious - like having lectures and exercises to learn from - but many of the needs are more fundamental and less obvious.
+                        </p>
+                        <p>
+                            You have been a learner before, so you have some experience to draw from. However, for this needfinding exercise, your task is to identify a population of learners that is outside your expertise or major. For example:
+                        <ul>
+                            <li>The Equestrian team learning to ride new horses</li>
+                            <li>Theater class learning a new play</li>
+                            <li>Grad students in the MBA program learning to negotiate</li>
+                            <li>Journalists learning about new technologies</li>
+                            <li>Medical students learning to care for patients</li>
+                            <li>Improv class</li>
+                            <li>Product design class</li>
+                            <li>People learning a foreign language</li>
+                        </ul>
+                        </p>
+                    <p>
+                        Your goal is to observe, interpret and post “how might we” statements to express needs of the people in these environments. For now, you don’t need to worry about creating an interactive explanation - you goal is purely about understanding and identifying the needs of learners.</p>
                 </div>
 
                 <div id="team" class="sidenav-anchor">
@@ -32,7 +53,7 @@
                     <p>Form a team of four from your studio. We suggest that you seek out teammates who bring together complementary skills and who have compatible schedules and priorities.</p>
                 </div>
 
-               <div id="plan" class="sidenav-anchor">
+                <div id="plan" class="sidenav-anchor">
                     <h2>Write a needfinding plan</h4>
                     <p>You are welcome to choose any direction that fits within the studio theme. Your studio instructor will provide suggested activities to observe and people to talk to.</p>
 
@@ -83,8 +104,8 @@
                     <h3>In Studio</h3>
                     <p>Your team will have four minutes to present a summary of what you did, as well as your most salient observations, interpretations, and How Might We questions. For this milestone, you may present these informally or using slides.</p>
                     <!--
-                    <p>Bring a full-page color printout of 1) your selected observations and 2) your people profiles with you to studio.</p>
-                    -->
+<p>Bring a full-page color printout of 1) your selected observations and 2) your people profiles with you to studio.</p>
+-->
                 </div>
 
                 <div id="evaluation" class="sidenav-anchor">
@@ -94,9 +115,9 @@
             </div>
         </div>
 
-    </div>
-  </body>
+        </div>
+    </body>
 
-  <!--#include virtual="../includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->
 
 </html>
