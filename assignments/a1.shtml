@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <!--#set var="title" value="CS 247 - Project 1: Critique" -->
+  <!--#set var="title" value="CS 247 - Assignment 1: Critique" -->
   <!--#include virtual="../includes/header.shtml" -->
 </head>
 
@@ -10,7 +10,7 @@
   <!--#include virtual="../includes/brandbar.html" -->
   <!--#include virtual="../includes/navigation.html" -->
 
-    <div class="project container">
+    <div class="assignment container">
         <div class="row">
             <div class="col-md-2">
                 <div class="sidenav" data-spy="affix"  data-offset-top="80">
@@ -110,7 +110,7 @@
 
                 <div id="submit" class="sidenav-anchor">
                     <h2>Submit</h2>
-                    <p>Submit one combined PDF of your critiques. (<a href="https://canvas.stanford.edu/courses/55308/assignments/58055">Direct link to Canvas submission.</a>)</p>
+                    <p>Submit one combined PDF of your critiques. (<a href="https://canvas.stanford.edu/courses/65895/assignments/72524">Direct link to Canvas submission.</a>)</p>
 
                     <p>Print out full-page versions of the interfaces or your annotated visual critique and bring it to class on Friday. We'll be looking at each others' work!</p>
 

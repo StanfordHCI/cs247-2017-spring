@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 
+<<<<<<< HEAD:projects/p2-1.shtml
     <head>
         <!--#set var="title" value="CS 247 - Project 2: Needfinding I" -->
         <!--#include virtual="../includes/header.shtml" -->
@@ -25,6 +26,7 @@
                             <h1>Assignment 2: Needfinding</h1>
                             <h4 style="color: #888888">Part I</h4>
                         </div>
+
                     </div>
 
                     <div id="prompt" class="sidenav-anchor">

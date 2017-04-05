@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <!--#set var="title" value="CS 247 - Project 2: Needfinding I" -->
+  <!--#set var="title" value="CS 247 - Assignment 2: Needfinding I" -->
   <!--#include virtual="../includes/header.shtml" -->
 </head>
 
@@ -10,7 +10,7 @@
   <!--#include virtual="../includes/brandbar.html" -->
   <!--#include virtual="../includes/navigation.html" -->
 
-    <div class="project container">
+    <div class="assignment container">
         <div class="row">
             <div class="col-md-2">
                 <div class="sidenav" data-spy="affix"  data-offset-top="80">
@@ -22,7 +22,7 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Project 3: Prototyping</h1>
+                        <h1>Assignment 3: Prototyping</h1>
                         <h4 style="color: #888888">Part III</h4>
                     </div>
                 </div>
