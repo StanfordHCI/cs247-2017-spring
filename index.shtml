@@ -216,7 +216,7 @@
 								<!-- Rapid prototyping: <a href="slides/08-rapid-prototyping.pdf">slides</a> -->
 							</td>
 							<td>
-								<h6>May 3 </h6>
+								<h6>May 3 <span class="label label-danger">due date</span></h6>
 								<p>A3 Feedback</p>
 								A3.3 (Prototyping) due<br>
 								A4.1 out
