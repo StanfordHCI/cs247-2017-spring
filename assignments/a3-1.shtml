@@ -1,89 +1,85 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <!--#set var="title" value="CS 247 - Assignment 3: Prototyping I" -->
-  <!--#include virtual="../includes/header.shtml" -->
-</head>
+    <head>
+        <!--#set var="title" value="CS 247 - Assignment 3: Prototyping I" -->
+        <!--#include virtual="../includes/header.shtml" -->
+    </head>
 
-<body data-spy="scroll" data-target=".sidenav">
-  <!--#include virtual="../includes/brandbar.html" -->
-  <!--#include virtual="../includes/navigation.html" -->
+    <body data-spy="scroll" data-target=".sidenav">
+        <!--#include virtual="../includes/brandbar.html" -->
+        <!--#include virtual="../includes/navigation.html" -->
 
-    <div class="assignment container">
-        <div class="row">
-            <div class="col-md-2">
-                <div class="sidenav" data-spy="affix" data-offset-top="80">
-                    <ul class="nav nav-stacked" id="sidenav-content">
-                    </ul>
-                </div> <!-- /sidenav -->
-            </div> <!-- /col-md-3 -->
-            <div class="col-md-8" id="assignment-description">
+        <div class="assignment container">
+            <div class="row">
+                <div class="col-md-2">
+                    <div class="sidenav" data-spy="affix" data-offset-top="80">
+                        <ul class="nav nav-stacked" id="sidenav-content">
+                        </ul>
+                    </div> <!-- /sidenav -->
+                </div> <!-- /col-md-3 -->
+                <div class="col-md-8" id="assignment-description">
 
-                <div class="row">
-                    <div class="col-md-12">
-                        <h1>Assignment 3: Prototyping</h1>
-                        <h4 style="color: #888888">Part I</h4>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1>Assignment 3: Prototyping</h1>
+                            <h4 style="color: #888888">Part I</h4>
+                        </div>
                     </div>
-                </div>
 
-                <div id="team" class="sidenav-anchor">
-                    <h2>New team</h4>
-                    <p>Form a team of four people from your studio. You can be with a maximum of one other person that you worked with on P2.</p>
-                </div>
+                    <div id="team" class="sidenav-anchor">
+                        <h2>New team</h4>
+                        <p>You will be assigned to a new team for this assignment.</p>
+                    </div>
 
-                <div id="prompts" class="sidenav-anchor">
-                    <h2>Prompt</h2>
-                        <!-- <div class="alert alert-info" role="alert">
-                            <p>These may get tailored to reflect the content of your P2 submissions—please check back after the weekend for updates.</p>
-                        </div> -->
-                        <h5>Social Decision Making <small>Bob Baxley </small></h5>
-                        <p class="">
-                            Imagine a technology service/site/app that a family could use together to determine a charitable giving plan. Imagine the family has four members: two parents, one high school aged child, and one college aged child. You can focus on one of the following specific decisions/issues:
-                            <ul class="su-list">
-                                <li>How do they collectively determine an appropriate level of giving?</li>
-                                <li>How do they decide whether to focus on a single cause or multiple causes?</li>
-                                <li>How do they select a specific charity within a chosen cause?</li>
-                            </ul>
+                    <div id="prompts" class="sidenav-anchor">
+                        <h2>Prompt</h2>
+
+                        <h5>Interactive Explanation</h5>
+                        <p>
+                            Think about concepts from <b>Linear Algebra, Mechanics (Physics), or Computer Science</b> that is difficult to explain by reading the definition in the text book. 
                         </p>
                         <p>
-                            The goal is to create an interaction that supports a small group with an uneven distribution of power make a decision about how to allocate a fixed resource.
+                            
+                            Pick one such concept that is suitable to making an interactive explanation. At least one person on your team should know the concept well. Ideally, everyone will know it. You should imagine explaining the concept to someone who does not know it well.
+                        </p>
+                        <p>
+                            For this part of the assignment you will need to do two brainstorms:<br>
+                            1. First, brainstorm concepts from these three domains. <br>
+                            2. Second, pick one of the concepts and brainstorm different interactive techniques for explaining it. <br>                            
+                        </p>
+                        <p>
+                            You may need to perform the second brainstorm for multiple concepts before settling on the concept you find most suitable.<br>
+                            
+                            In your brainstorm, aim for a large quantity of ideas, not quality. We expect to see a minimum of 10 different interactive approaches for your chosen concept.<br>
+                            
+                            <br>
+                            Here are some things to think about:
+                        </p>
+                        <ul class="su-list">
+                            <li>What concepts in these domains are hard to explain in traditional ways?</li>
+                            <li>What is the root cause of the difficulty in explaining it? </li>
+                            <li>Can we address those root causes with an interactive explanation? </li>
+                        </ul>
+                        <p>
+                            Many interactive explanations already exist in the world. We encourage you to pick a concept that you have not seen implemented as an Interactive Explanation. If someone has already made an interactive explanation for your concept, you should only pick that concept if you think you can do much better than the existing solution.
+
                         </p>
 
-                        <h5>Banishing Bland Buildings <small>Jenn Marlow </small></h5>
-                        <p class="">
-                            Your users are foreign tourists in Stanford Shopping Center. They do not know any English, people at the shopping center speak none of their languages, Google Translate stinks in their language. Create a system that would let them communicate successfully with others in the shopping center to:
-                        </p>
-                            <ul class="su-list">
-                                <li>Find lunch—one of them is vegetarian, but does not like spicy food</li>
-                                <li>Find out what's the most popular store at the shopping center, and the most popular thing to buy there</li>
-                                <li>Fix a mental model error: they think that they are at Stanford, but can't seem to find any of the Stanford landmarks (because they're actually at the shopping center)</li>
-                            </ul>
 
-                        <h5>Leveling the playing field <small>Helena Roeber </small></h5>
-                        <h6>Culture Clash</h6>
-                        <p>Design a solution that fosters community and collaboration between entire groups of people with different cultural, linguistic or socioeconomic backgrounds who share a common space, i.e. a cultural center, a neighborhood or a city. Examples for problems that can be addressed by your solution can be the tensions between Mandarin and English speakers at the Avenidas Senior Center, tech industry employees vs Latino residents of the Mission neighborhood in SF, and Oakland established artists vs incoming residents.</p>
-                        <h6>Homelessness</h6>
-                        <p>Design a solution which builds sustainable, uplifting relationships between homeless people and people with secure housing. Consider homeless people living on the streets, in shelters, vehicles, and other inadequate housing situations. Your goal is to create a solution resulting in more trust and understanding between the two parties such that both see positive change in their lives.</p>
 
-                        <h5>Cutting Edge <small>Julie Stanford & Jofish Kaye</small></h5>
-                        <p>Design an experience that helps deliver information to surgery patients pre and/or post surgery. Narrow your focus to think about specific use cases — is this patient having an emergency surgery or a pre-planned procedure? Do they have a support team of friends and family or are they alone? What information will they need to reference once versus multiple times? Think about what patient’s information needs are, their state of mind when they receive the information, and what the source will be.  Also think about the medical provider’s communication needs. What information do they believe patients should have? How will they know if the patient received it? How will they know what patients have already been told when they interact with them? The experience could be on mobile, web, a kiosk, tablet or any other digital medium of your choice.  And, by the way, <a class="sneaky-link" href="/2017-spring/images/axe.png">no person should be harmed in your attempt to create a situation where someone needs surgery</a>.</p>
 
-                        <h5>Disrupting Echo Chambers <small>John Tang</small></h5>
-                        <p>Assuming there exists an algorithm for identifying items of a different point of view than the ones you choose to view, how would you design a UX that <em>injects</em> these complementary posts into the user’s view and attracts them to view it? Key points are how to present it to the user and how to <em>intensify</em> this presentation so the user does get some exposure to different points of view. Pick a distribution channel (for example social media feeds like Facebook, Snapchat, Periscope, digital news sites, reddit threads; even web search results on controversial topics) and figure out how to work into users’ existing use practices to introduce them to differing perspectives.</p>
 
-                        <h5>Subvert <small>Prof. Michael Bernstein </small> </h5>
-                        <p>Pick a topic of dialogue in the campus or national environment, and identify a point of view that you feel is under-represented. Design an intervention that draws attention to that point of view. The design can exist in any technologically-mediated interactive environment: interactive kiosk, social media, mobile app. The design goal should be for it to spread as virally as possible.</p>
                     </ul>
-                </div>
+            </div>
 
-    <div id="brainstorm" class="sidenav-anchor">
-      <h2>Brainstorming</h2>
-          <div id="flare" class="sidenav-anchor">
+            <div id="brainstorm" class="sidenav-anchor">
+                <h2>Brainstorming</h2>
+                <div id="flare" class="sidenav-anchor">
                     <h4>Flare and Focus</h4>
-                    <p>Starting with the prompt, and any insights you can carry over from P2, work with your team to brainstorm together on whiteboards, sketchbooks, artisanal cheese scraps &mdash; whatever it takes. The only constraints are that your design involve interactive technology in some way, and be feasible to implement given the technology trajectory in the next five years. Work to "How Might We..." questions that ground your brainstorm with actionable problems. This should produce at least 15 ideas, and probably many more. Sketch them out clearly.</p>
+                    <p>Once you have chosen a domain, work with your team to brainstorm together on whiteboards, sketchbooks, post-its, etc. Work to "How Might We..." questions that ground your brainstorm with actionable problems. This should produce at least 10 ideas, and probably many more. Sketch them out clearly.</p>
 
-                    <p>Select ideas that you would like to pursue — we suggest two — and expand on them a bit further. Sketch out the broader interaction context of how you imagine these ideas being used. Include who the users are, the major needs those users bring to the situation, and how your design solution addresses the needs.</p>
+                    <p>Select ideas that you would like to pursue — we suggest two — and expand on them further. Sketch out the interactions and how you imagine them being used. Include who the users are, the major needs those users bring to the situation, and how your design solution addresses the needs.</p>
                 </div>
 
                 <div id="darkhorse" class="sidenav-anchor">
@@ -98,7 +94,7 @@
 
                 <div id="prototype" class="sidenav-anchor">
                     <h2>Three prototypes</h2>
-                    <p>Much like with Horcruxes, one should not place all their faith in a single prototype. As we've discussed in class, having multiple parallel prototypes produces better final designs. Your goal now is to prototype all three of your design ideas. The explicit goal of this assignment is to challenge ourselves to generate convincing but rapid prototypes. <a href="http://dschool.stanford.edu/wp-content/uploads/2011/03/BootcampBootleg2010v2SLIM.pdf">Your goal is not to create a mockup or scale model, but to create experiences to which your users can react</a>.</p>
+                    <p>One should not place all their faith in a single prototype; having multiple parallel prototypes produces better final designs. Your goal now is to prototype all three of your design ideas. The explicit goal of this assignment is to challenge ourselves to generate convincing but rapid prototypes. Your goal is not to create a mockup or scale model, but to create experiences to which your users can react.</p>
 
                     <p>The key to this assignment will be articulating: what's your design idea's biggest unanswered question? Use that question to figure out what kind of prototype you would need to build and how you would get feedback from users to answer it. Do not try to create a single prototype that covers the entire idea. This is doomed to be too unfocused to learn much useful. Prototypes can be hand-drawn, constructed physically, behavioral, or digital. Use any prototyping technique in your arsenal.</p>
 
@@ -109,7 +105,7 @@
                     <h2>Submit and Present</h2>
 
                     <h3>On Canvas</h3>
-                    <p>Pull everything together into your submission for P3.I on Canvas. This includes:</p>
+                    <p>Pull everything together into your submission for A3-1 on Canvas. This includes:</p>
                     <ul>
                         <li>One PDF that contains your brainstormed idea sketches, and your further explorations of two top ideas.</li>
                         <li>One PDF that contains your brainstormed dark horse ideas, and your further exploration of one of them.</li>
@@ -120,18 +116,14 @@
                     <p>Be prepared to share your top three ideas and prototypes in five minutes in studio. Bring full-page color printouts of your top three ideas' sketches and either your actual prototypes or printouts of the prototypes.</p>
                 </div>
 
-                <div id="evaluation" class="sidenav-anchor">
-                    <h2>Grading rubric</h2>
-                    <p>Each milestone is worth <b>five points</b>. You will receive five points for completing the assignment satisfactorily, submitting it, and your whole team bringing your sketches to class for feedback.</p>
-                </div>
 
             </div>
         </div>
 
+        </div>
     </div>
-    </div>
-  </body>
+</body>
 
-  <!--#include virtual="../includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->
 
 </html>
