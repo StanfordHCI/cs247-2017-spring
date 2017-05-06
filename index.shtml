@@ -297,7 +297,7 @@
 							<td class="hidden-xs"><h6>10</h6></td>
 							<td>
 								<h6>June 5</h6>
-								<p>Final Presentations</p>
+								<p>Final Presentations <span class="label label-danger">due date</span></p>
 								A4.2 due<br>
 								<!-- <a href="assignments/a4-2.shtml">A4.2</a> due<br> -->
 								<!-- <p>Guest lecturer: <a href="http://www.lukew.com">Luke Wroblewski</a></p> -->

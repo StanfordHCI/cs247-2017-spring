@@ -29,120 +29,114 @@
 
                 <div id="team" class="sidenav-anchor">
                     <h2>Final team</h4>
-                    <p>Form a team of up to four people from your studio. There are no restrictions beyond this—you can work with people from previous teams if you choose.</p>
+                    <p>You will be assigned a team of three or four people from your studio. </p>
                 </div>
 
                 <div id="prompts" class="sidenav-anchor">
                     <h2>Prompt</h2>
-                        <!-- <div class="alert alert-info" role="alert">
-                            <p>These may get tailored to reflect the content of your P2 submissions—please check back after the weekend for updates.</p>
-                        </div> -->
-                        <h5>Social Decision Making <small>Bob Baxley </small></h5>
-                        <p class="">
-                            Create an interactive flow that allows a member of a family to:
-                            <ol>
-                                <li>from a fixed set of the 20 most popular charitable causes, identify one or more causes to which they want to donate</li>
-                                <li>find, filter, evaluate, compare and select one or more charity organizations working on a particular cause</li>
-                                <li>set allocation preferences for distributing funds among the selected charities and identified causes</li>
-                                <li>view how their choices and preferences blend with the overall family allocation accounting for their individual influence/power within the family.</li>
-                            </ol>
+                        <h5>Interactive Explanation</h5>
+                        <p>From any of the interactive explanations prototyped by any of your A3 teams, select a concept you will focus on implementing in high-fidelity for this final assignment. When selecting a concept to implement, try to strike a good balance between a challenging concept to teach and an approach that can be realistically implemented before the end of the quarter. While you might choose to start with the final prototypes developed in A3, you may also choose to start from an earlier iteration of prototypes. In the first part of this assignment you will develop high-fidelity (look and feel) prototypes (e.g. mockups) and do a bit of implementation. </p>
+
+                        <p>
+                        Note: It is okay for multiple groups to work on the same concept. 
                         </p>
 
-                        <h5>Banishing Bland Buildings <small>Jenn Marlow </small></h5>
-                        <ol>
-                            <li>Pick a wide use building (like a library, department store, Hoover tower, etc.) on campus or beyond, then</li>
-                            <li>Design an interactive experience for a group of 2 or more people visiting that building that</li>
-                            <li>Allows people to indicate their preferences for one place (or, depending on the building, multiple places) to visit within that building (input can vary from selection of options on a list to more creatively "sensed" ways of providing input on preferences), and</li>
-                            <li>Personalizes their experience in the building you chose in some way (e.g. leading them through the building, recommending items to see or things to do, etc.)</li>
-                        </ol>
-                        <p>The platform can be on phone, smartwatch, a large public display, etc.</p>
-
-                        <h5>Leveling the playing field <small>Helena Roeber </small></h5>
-                        <p>Your P4 implementation needs to have a major interaction and visual/information design component, in addition to being grounded in solid user needs and goals (see the P4.2 rubric). Each team may pick their project from any of the five prototype ideas presented for P3, or pursue a new idea based off of previous needfinding from P2, as long as the idea addresses the studio theme. Two teams may pursue the same topic if and only if each team has a different take on the topic, such that the resulting designs are radically different.</p>
-                        <p>In addition to the deliverables listed on the class website, please include in your submissions for P4:
-                            <ul class="su-list">
-                                <li>Emotional and logistical design goals from the users' perspective</li>
-                                <li>A list of the core tasks the design will support</li>
-                                <li>A description of the look and feel you strive for</li>
-                            </ul>
-                        </p>
-
-                        <h5>Cutting Edge <small>Julie Stanford & Jofish Kaye</small></h5>
-                        <p>Design an experience that allows surgical patients to both receive and provide peer support through one-to-few mentorship and/or some collection of stories & shared knowledge.</p>
-                        <p>Here are some dimensions for you to think about when contemplating your design:</p>
-                        <ul class="su-list">
-                            <li>Pick one surgery to stay focussed. This will help you come up with more unique design insights.</li>
-                            <li>How will users choose whom to pair up with? Do they even need to?</li>
-                            <li>Are you facilitating short or long term connections?</li>
-                            <li>How are you evaluating the success of a mentorship?</li>
-                            <li>Which parts of your experience are public, which private—and why?</li>
-                        </ul>
-
-                        <h5>Disrupting Echo Chambers <small>John Tang</small></h5>
-                        <p>Pick from among any of the ideas presented in our studio for P3.3 as the starting point for P4. We are continuing to explore how to get users to engage with points of view that they would not usually see. By Tuesday, February 14, 6pm we will post on Piazza any modifications of the ideas needed to make them suitable for a P4 design prompt.</p>
-
-                        <h5>Subvert <small>Prof. Michael Bernstein </small> </h5>
-                        <p>As with P3, pick a topic of dialogue in the campus or national environment, and identify a point of view that you feel is under-represented. You may re-use any team's topic, point of view, or design from P3, or generate a new one. Your goal is to design an interactive experience that convinces people of the point of view. Don't just create an informational web site: think about how to engage the user.</p>
                     </ul>
                 </div>
 
+                <div id="prompts" class="sidenav-anchor">
+                    <h2>Identify the sub-concepts</h2>
+                    <p>
+                        As you saw from your prototypes created in A3, teaching a concept involves (1) coming up with a strategy for explaining it interactively and (2) breaking down the strategy into sub-concepts. Each sub-concept can experienced though text, visuals, or interaction. For example, here some sub-concepts in the <a href="http://ncase.me/polygons/">Parable of the Polygons</a> and the interaction and visuals that convey them:
+                        <ul>   
+                            <li>Sub-concept: Polygons prefer diversity
+                                <ul>
+                                    <li>Interaction: Drag polygon from no diversity to some diversity. See it become happy.</li>
+                                </ul>
+                                
+                            </li>
+                            <li>Sub-concept: Polygons can be happy, sad, or meh.
+                                <ul>
+                                    <li>Visual: Illustrate an unhappy polygon with less that 1/3 of neighbors like him.</li>
+                                    <li>Visual: Illustrate a happy polygon with exactly 1/3 of neighbors like him.</li>
+                                    <li>Visual: Illustrate a “meh” polygon with all neighbors like him.</li>
+
+                                </ul>
+
+                            </li> 
+                            <li>Sub-concept: Every polygon would be happy with a mixed neighborhood, but small biases add up.
+                                <ul>
+                                    <li>
+                                        Interaction: Move unhappy polygons until everyone is happy or sad (see that the board is more segregated)</li>
+                                </ul>
+                                
+                            </li>
+
+
+    
+                        </ul>
+                          
+                    </p>
+                    <p>
+
+                        For the concept you selected, first identify all the sub-concepts necessary for a complete explanation, then add a brief summary of the visuals and interactive elements that will convey it. The goal is to choose the overall scope of your explanation (what aspects of the concept will your explanation cover and what aspects will it leave out.)
+                    </p>
+                </div>
+
                 <div id="sketch" class="sidenav-anchor">
-                    <h2>Sketch ten thumbnails</h2>
-                    <p>It's time to start brainstorming designs. Start sketching. We're looking for you to generate ten different concept thumbnails focusing on the interaction, information hierarchy, and overall layout. Each sketch should be about a quarter-page if you're using an 8.5" by 11" sketchbook. They're intentionally postcard-sized so that you focus on the overall layout rather than detail. If you need multiple different sketches to capture a single idea, that's fine.</p>
 
-                    <p>Try different user flows through the application, different grid structures, and calling attention to information through negative space. Aim for variety &mdash; diversity in your sketches will make it easier to find the design that you like best. Feel free to include color in your sketches if it would help convey your idea, but using grayscale is great too. One piece of advice: don't make it too complex, since you'll be implementing it soon.</p>
 
-                    <p>Here is an example sketch for a project building a physician newsleter portal:</p>
+                    <h2>Hand sketch three storyboards of the design</h2>
+                    <p>Now that you have an overview of all sub-concepts your explanation will contain, it is time to start brainstorming visual designs (e.g. storyboards) for your interactive explanation. We want to see <b>three different storyboards</b> for the full website of your interactive explanation. In each of the three storyboards, hand sketch each of it's sections (each section should roughly correspond to a sub-concept). The sections should be drawn big, and put on a separate piece of paper. (Note: we are differenting hand-sketching from using the program Sketch). A section might correspond to one part of a scrollable page, or to one page within a multi-page website.
+                    </p>
+                    <p>You may reuse some ideas (and some of the section drawings) between the three storyboards, but you should experiment with 
+                different user flows through the application, different grid structures, and calling attention to information through negative space. Aim for variety &mdash; diversity in your designs will make it easier to find the one that you like best. Focus on layout and wse grayscale to differentiate between the different parts of your design (you will choose colors and other visual design elements later). One piece of advice: don't make it too complex, since you'll be implementing it soon.</p>
+
+                    <p>Here is an example sketch for one section of a project building a physician newsleter portal:</p>
                     <div class="row">
                         <div class="col-md-6">
-                            <img class="img-responsive img-thumbnail"src="../images/p2-sketch.png" />
+                            <img class="img-responsive img-thumbnail" src="http://cs247.stanford.edu/2017-winter/images/p2-sketch.png" />
                         </div>
                     </div>
                     <small>Courtesy of Julie Stanford and Sliced Bread Design</small>
                 </div>
 
                 <div id="ixn-layout" class="sidenav-anchor">
-                    <h2>Three Sketch Wireframes</h2>
-                    <p>Pick your top three ideas and create rough mocks for each. These mocks are intended to evolve and instantiate your sketches given realistic constraints in screen size and layout.</p>
+                    <h2>Two Pixel-Perfect Mocks</h2>
+                    <p>Pick your top two hand sketched storyboards and create pixel perfect mocks for each. </p>
 
                     <p>If you can get your hands on a Mac, we strongly recommend the trial version of <a href="http://www.bohemiancoding.com/sketch/">Sketch for OS X</a>. (You can also install it on the cluster computers.) Its <a href="http://www.sketchappsources.com/">large library of templates</a> can give you tons of premade elements (especially helpful for this assignment: the <a href="http://bootstrapuikit.com/">Twitter Bootstrap UI elements</a>) so you don't need to reinvent everything from scratch. An alternative is <a href="http://www.adobe.com/products/illustrator.html">Adobe Illustrator</a> or Photoshop, available on Stanford cluster machines. Many of the UI template libraries work with these tools as well. However, they have high learning curves. If you are truly stuck, tools such as Figma or Keynote or Powerpoint can work, but be aware that it can be difficult to use them to produce designs that look like they would be realistic web sites rather than slideware. It's fine to use Sketch UI kits for default styles and buttons, since the focus isn't on visual design right now. Likewise, you can use Lorem Ipsum text if you need.</p>
 
-                    <p>We expect that your wireframes convey a complex enough interaction to need several states of the application &mdash; for example, pages or interactive widgets. Most effective projects have at least three major states, and not more than five or six. Convey these states for now through separate screens in the mock.</p>
 
-                    <p>Here are example Sketch mocks. Note that the visual design language leans in the general direction that will be used, but it uses a lot of pre-canned resources and is not final.</p>
+                    <p>Below are example Sketch mocks for three sections of a mobile app. Note that the look and feel are in high fidelity, but the text might not be fully realized and and interactions are not implemented.</p>
+
+                    <p>We recommend making sure to get feedback in studio or office hours at this point, before narrowing down to a single design to pursue! </p>
 
                     <div class="row">
-                        <img class="img img-responsive col-md-4"src="../images/p2-sketch1.png" />
-                        <img class="img img-responsive col-md-4"src="../images/p2-sketch2.png" />
-                        <img class="img img-responsive col-md-4"src="../images/p2-sketch3.png" />
+                        <img class="img img-responsive col-md-4" src="http://cs247.stanford.edu/2017-winter/images/p2-sketch1.png" />
+                        <img class="img img-responsive col-md-4" src="http://cs247.stanford.edu/2017-winter/images/p2-sketch2.png" />
+                        <img class="img img-responsive col-md-4" src="http://cs247.stanford.edu/2017-winter/images/p2-sketch3.png" />
                     </div>
                     <small>Courtesy of Julie Stanford and Sliced Bread Design</small>
 
-                    <p>We recommend making sure to get feedback in studio or office hours at this point, before narrowing down to a single design to pursue! <b>We would normally make this a separate milestone with a suggested due date of 2/20, but the President's Day holiday precludes that this year.</b> So, if you want to stay on top of the project, seek out a TA or studio instructor in office hours or the previous class day.</p>
+                    
                 </div>
 
-                <div id="ixn-layout" class="sidenav-anchor">
-                    <h2>One Marvel Wireframe</h2>
-                    <p>Sketch isn't very interactive, so we'll connect it with <a href="https://marvelapp.com/">Marvel</a>. Choose one of your three designs to pursue further. Expand your wireframe so that its main interaction flows are all present and possible to click through in Marvel.</p>
-
-                    <p>Our critiques in studio will be focused on whether your design is focusing on the right elements of the interaction and information.</p>
-                </div>
-
-                <!--
-                <div id="examples" class="sidenav-anchor">
-                    <h4>Find examples</h4>
-                    <p>Given your goals from above, go find other web sites and applications that communicate the same idea. You're welcome to find as many as you'd like, but screenshot and share at least four. Now it's time for a little critique. For each item, annotate it with one "I Like..." and one "I Wish..." statement. For example, "I like this guide's use of San Francisco iconography. It really makes the guide feel local.", and "I wish that the art deco theme weren't so overwrought." Do not focus on low-level usability problems &mdash; critique the design's high-level decisions.</p>
+                <div id="impl" class="sidenav-anchor">
+                    <h2>Implement one interaction</h2>
+                    <p>
+                        In your list of sub=concepts, you identified several interactive elements of your explanation. Pick the one of the key (e.g. risky) interactive element from your design and implement it. The implementation does not have to be perfect, but it has to been good enough to get useful feedback from users. This interaction should be used with both of your pixel-perfect mocks. Put this on the web for real users to test using their own computers.
+                    </p>
                 </div>
 
 
-
-                -->
 
                 <div id="impl" class="sidenav-anchor">
                     <h2>User feedback</h2>
-                    <p>After your Marvel wireframe is ready, use the techniques you learned in CS 147 to get feedback from users on them. Summarize what you learned, and how you will be iterating based on the feedback. Aim for at least five users (and ten if you want to impress us).</p>
+                    <p>After your interaction is ready, use the techniques you learned in CS 147 to get feedback from users on your designs and the interaction you implemented. Summarize what you learned, and how you will be iterating based on the feedback. Aim for at least five users (and ten if you want to impress us).</p>
                 </div>
 
+                <!--
                 <div id="example" class="sidenav-anchor">
                     <h2>Examples</h2>
                     <p>Here are some good submissions from last year. Note some differences in the assignment: HTML wireframes instead of using Marvel, and the the implementation and user feedback requirements were in other milestones:</p>
@@ -151,28 +145,26 @@
                         <li><a href="/2016/projects/examples/p2-1/CS247_P2-1_example2.pdf">CM+BS+AT</a></li>
                     </ul>
                 </div>
+                -->
 
                 <div id="submit" class="sidenav-anchor">
                     <h2>Submit and Present</h2>
 
                     <h3>On Canvas</h3>
-                    <p>Pull everything together into your submission for P4.I on Canvas. This includes:</p>
+                    <p>Pull everything together into your submission for A4-1 on Canvas. This includes:</p>
                     <ul>
-                        <li>Your ten thumbnail sketches</li>
-                        <li>Your three Sketch wireframe</li>
-                        <li>Your one Marvel wireframe (screenshots)</li>
-                        <li>A link to a live version of your Marvel wireframe</li>
+                        <li>The outline of your sub-concepts with accompanying visuals or interactions</li>
+                        <li>Your three hand sketched storyboards</li>
+                        <li>Your two pixel-perfect mocks</li>
+                        <li>A link to a live version of your interaction</li>
                         <li>A summary of your user feedback method, results, and plans</li>
                     </ul>
 
                     <h3>In Studio</h3>
-                    <p>Print out your Sketch and Marvel wireframes (each fullsize on a separate page) and bring them with you to studio for critique. You will have five minutes to lay out your goal, designs, and user feedback.</p>
+                    <p>Print out your storyboards and pixel-perfect mocks and bring them with you to studio for critique. You will have five minutes to lay out your goal, designs, and user feedback.</p>
                 </div>
 
-                <div id="evaluation" class="sidenav-anchor">
-                    <h2>Grading rubric</h2>
-                    <p>Each milestone is worth <b>five points</b>. You will receive five points for completing the assignment satisfactorily, submitting it, and your whole team bringing your sketches to class for feedback.</p>
-                </div>
+                
 
             </div>
         </div>
