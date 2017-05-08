@@ -71,6 +71,7 @@
            <p> You have full access to the <a href="https://www.google.com/fonts">Google Fonts</a> catalog in Google Drive. At the bottom of the dropdown for selecting a font, you'll see a "More Fonts" button, which takes you to this catalog. You can also play around with the fonts directly on the Google Fonts website. </p>
            <p> For some inspiring ways to combine fonts, take a look at websites like <a href="https://medium.com">Medium</a> that make cool choices, design sites like <a href="https://www.behance.net">Behance</a>, or typeface websites like <a href="http://fontpair.co">Fontpair</a>. </p>
           </div>
+        </div>
 
         <p class="text-muted">All exercises adapted from Ishita Prasad's materials for CS247 Fall 2015-16.</p>
 
