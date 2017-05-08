@@ -53,6 +53,39 @@
           <img src="/2017-spring/exercises/chrome_developer_tools_2@2x.png" width="1179px">
         </div>
 
+        <div id="extra" class="sidenav-anchor">
+          <h1>Additional tasks</h1>
+          <p class="lead">If you completed the first exercise quickly and have time so spare we have some additional ideas for redesigning.</p>
+          <div class="sidenav-anchor">
+            <h3 id="two">Moodboards</h3>
+            <p>Create a moodboard to reflect your creative vision. Find inspiration from <a href="https://www.behance.net">Behance</a>, <a href="http://dribbble.com">Dribbble</a>, <a href="http://www.awwwards.com">Awwwards</a>, <a href="https://niice.co">Niice</a>, <a href="https://www.pinterest.com">Pinterest</a>, <a href="https://www.google.com">Google</a>, etc. and collect it in a Keynote, Powerpoint, Sketch, or other doc.</p>
+            <p>(The example below uses visuals from academic websites, books, posters, author pages, etc. and was created using Keynote.)</p>
+            <div style="display:block;max-width:700px; margin-top:20px;margin-bottom:20px">
+              <img class="img-responsive center-block" src="example_board.png" style="margin-bottom:10px"></img>
+              <small> Clockwise from top-left: <a href="http://www.lawebdelatelier.com/en">Atelier Arts</a>, <a href="http://www.harukimurakami.com">Haruki Murakami</a>, <a href="https://www.behance.net/gallery/25272555/Janzkera-11">University of Basque catalog</a>, <a href="">Helvetica Letterpress</a>, <a href="https://www.behance.net/gallery/16861787/Spare-Change-News">Spare Change News</a>, <a href="http://www.institut-franco-chinois-lyon.com">Institute of Lyon</a>, <a href="https://www.behance.net/gallery/16861787/Spare-Change-News">Spare Change News</a>, <a href="https://www.behance.net/gallery/24628007/Mallarmes-books">Mallarme's Books Poster</a></small>
+            </div>
+          </div>
+        </div>
+
+          <div class="sidenav-anchor" id="color">
+            <h3 id="three">Color </h3>
+            <p>Now we will redesign the CSF English Department page in terms of the color choices. You might have noticed some wonky colors in the <code>materials/english.html</code> file. </p>
+            <p>You'll be changing these colors to convey the concept you defined in your moodboard and create a strong aesthetic. As before, you can edit colors through the Developer Tools in your Chrome browser, or edit the CSS of <code>materials/english_files/247.css</code> directly.</p>
+            <p>A helpful resource is <a href="https://color.adobe.com" target="_blank">Adobe Color</a>, which helps you find colors that go well together. </p>
+          </div>
+
+          <div class="sidenav-anchor" id="typefaces">
+             <h3 id="four">Typefaces</h3>
+           <p> Now we'll practice editing typefaces. Make a copy of <a href="https://docs.google.com/presentation/d/1U-OaHCZJ6DXAHrOrc4mTV7B_2K-t37G6Ny8UQL5Dcoc/edit?usp=sharing">this mockup of the content</a> of the CSF website (File > Make a Copy).</p>
+           <p> Then, in your copy, edit the typefaces and styling to achieve something a little more aesthetically pleasing and readable. </p>
+           <p> You have full access to the <a href="https://www.google.com/fonts">Google Fonts</a> catalog in Google Drive. At the bottom of the dropdown for selecting a font, you'll see a "More Fonts" button, which takes you to this catalog. You can also play around with the fonts directly on the Google Fonts website. </p>
+           <p> For some inspiring ways to combine fonts, take a look at websites like <a href="https://medium.com">Medium</a> that make cool choices, design sites like <a href="https://www.behance.net">Behance</a>, or typeface websites like <a href="http://fontpair.co">Fontpair</a>. </p>
+            <div style="display:block;max-width:700px; margin-top:20px;margin-bottom:20px">
+              <img class="img-responsive center-block" src="typefaces.png" style="margin-bottom:10px"></img>
+              <small> <a href="http://www.typography.com">typography.com</a></small>
+            </div>
+          </div>
+
         <p class="text-muted">All exercises adapted from Ishita Prasad's materials for CS247 Fall 2015-16.</p>
 
       </div><!-- /col-md-8 -->
