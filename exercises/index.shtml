@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="CS 247 - Exercises" -->
+  <!--#include virtual="../includes/header.shtml" -->
+
+  <link href="https://fonts.googleapis.com/css?family=Lato|Vollkorn" rel="stylesheet">
+
+</head>
+
+<body data-spy="scroll" data-target=".sidenav">
+  <!--#include virtual="../includes/brandbar.html" -->
+  <div class="jumbotron" id="exercises">
+    <div class="container">
+      <h1><span class="department-name">Exercise:</span> <span class="course-name">negative space</span></h1>
+      <p>Let's put some spunk back into Cal State Fullerton's English department's old webpage.</p>
+    </div>
+  </div>
+  <!--#include virtual="../includes/navigation.html" -->
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-2">
+          <div class="sidenav" data-spy="affix" data-offset-top="320">
+              <ul class="nav nav-stacked" id="sidenav-content">
+              </ul>
+          </div> <!-- /sidenav -->
+      </div> <!-- /col-md-2 -->
+
+      <div class="col-sm-8">
+        <div id="negative-space" class="sidenav-anchor">
+          <h1>Let's practice</h1>
+          <p class="lead">We'll hone our skills with handling negative space by stripping away parts of a homepage to create a cleaner, less cluttered feel.</p>
+          <div id="materials" class="sidenav-anchor">
+            <h3 id="one" >Materials</h3>
+            <p>To start, <a href="/2017-spring/exercises/exercise.zip">download the materials</a>. In the folder <code>exercise</code>, you'll find the <code>index.html</code> page that we will be working with.</p>
+            <p>
+              <a class="btn btn-primary" href="/2017-spring/exercises/exercise.zip">Download Materials</a>
+            </p>
+          </div>
+          <div id="cleaning" class="sidenav-anchor">
+            <h3 id="one" >Cleaning up</h3>
+            <p>We'll practice our skills with handling negative space by stripping away parts of the homepage to create a cleaner, less cluttered feel. Remember, negative space might be empty, but it's not meaningless: it helps define structure and call out important parts of a page. </p>
+            <p>There are two ways you can do this: open <code>index.html</code> in your Chrome browser, and then hit <code>View > Developer > Developer Tools </code>. From here, you can directly delete parts of the website and edit the CSS. This is easy and quick, but won't let you save your edits—so don't hit reload! Alternatively, you can edit the CSS directly in the css files under the <code>english_files</code> directory. <p>
+            <p>If you edit the CSS, you can try <code>display:none</code> (the page acts as if the element doesn't exist), or <code>visibility:hidden</code> (the page acts as if the element is still there, but invisible). </p>
+          </div>
+
+        </div>
+
+        <div class="">
+          <img src="/2017-spring/exercises/chrome_developer_tools_2@2x.png" width="1179px">
+        </div>
+
+        <p class="text-muted">All exercises adapted from Ishita Prasad's materials for CS247 Fall 2015-16.</p>
+
+      </div><!-- /col-md-8 -->
+    </div><!-- /row -->
+  </div><!-- /container -->
+
+</body>
+
+  <!--#include virtual="../includes/footer.shtml" -->
+
+</html>
