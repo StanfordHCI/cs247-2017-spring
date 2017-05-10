@@ -146,13 +146,13 @@
 							<td class="hidden-xs"><h6>2</h6></td>
 							<td>
 								<h6>April 10</h6>
-								<p>Sketching and Interactive Explanations</p>
+								<p>Sketching and Interactive Explanations <a href="slides/03-sketching.pdf">slides</a></p>
                                 <p>Reading <a href="https://hcicourses.stanford.edu/cs247/2017-winter/readings/understanding_comics.pdf">Understanding Comics</a> (Chp. 1-3)</p>
 								<!-- <em class="text-muted">No class; MLK day</em> -->
 							</td>
 							<td>
 								<h6>April 12</h6>
-								<p>Interviewing</p>
+								<p>Interviewing <a href="slides/04-interviewing.pdf">slides</a></p>
 								A2.1 (Needfinding) due<br>
                                 <a href="assignments/a2-2.shtml">A2.2 (Needfinding)</a> out<br>
 								<!-- <a href="assignments/a2-1.shtml">A2.1 (Needfinding)</a> due<br> -->
@@ -166,12 +166,12 @@
 							<td class="hidden-xs"><h6>3</h6></td>
 							<td>
 								<h6>April 17</h6>
-								<p>Brainstorming</p>
+								<p>Brainstorming <a href="slides/05-brainstorming-lydia.pdf">slides</a></p>
 								<!-- Interviewing: <a href="slides/04-interviewing.pdf">slides</a> -->
 							</td>
 							<td>
 								<h6>April 19 <span class="label label-danger">due date</span></h6>
-								<p>Picking Prototypes</p>
+								<p>Picking Prototypes <a href="slides/06-picking-prototypes.pdf">slides</a></p>
 
 								A2.2 (Needfinding) due <br>
 								A3.1 (Prototyping) out
@@ -187,12 +187,12 @@
 							<td class="hidden-xs"><h6>4</h6></td>
 							<td>
 								<h6>April 24</h6>
-								<p>Parallel Prototyping</p>
+								<p>Parallel Prototyping <a href="slides/07-parallel-prototyping-lydia.pdf">slides</a></p>
 								<!-- Picking prototypes: <a href="slides/06-picking-prototypes.pdf">slides</a> -->
 							</td>
 							<td>
 								<h6>April 26</h6>
-								<p>Rapid Prototyping</p>
+								<p>Rapid Prototyping <a href="slides/08-rapid-prototyping.pdf">slides</a></p>
 
 								A3.1 (Prototyping) due <br>
 								A3.2 (Prototyping) out
@@ -231,7 +231,7 @@
 							<td class="hidden-xs"><h6>6</h6></td>
 							<td>
 								<h6>May 8 </h6>
-								<p>Mocks</p>
+								<p>Information Design <a href="slides/09-information-design.pdf">slides</a></p>
 								<p>
 									<a href="exercises/index.shtml">
 										Exercise
@@ -246,7 +246,7 @@
 							</td>
 							<td>
 								<h6>May 10</h6>
-								<p>Layout</p>
+								<p>Grid & Layout <a href="slides/10-grids.pdf">slides</a></p>
 								<!-- Mocks: <a href="slides/09-information-design.pdf">slides</a>, <a href="exercises/index.shtml">design exercise</a> -->
 							</td>
 						</tr>
