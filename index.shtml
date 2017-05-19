@@ -269,7 +269,7 @@
 							<td class="hidden-xs"><h6>8</h6></td>
 							<td>
 								<h6>May 22</h6>
-								<p>TBA</p>
+								<p>Presenting Design Work</p>
 
 								A4.1 due<br>
 								A4.2 out
@@ -279,7 +279,7 @@
 							</td>
 							<td>
 								<h6>May 24 <!-- <span class="label label-warning">suggested due date</span> --></h6>
-								<p>TBA</p>
+								<p>Visualization</p>
 								<!-- <p>Guest lecturer: <a href="http://www.tomchi.com">Tom Chi</a></p> -->
 								<!-- <a href="assignments/a4-1.shtml">P4 Part I</a> soft due -->
 							</td>
@@ -289,12 +289,12 @@
 							<td class="hidden-xs"><h6>9</h6></td>
 							<td>
 								<h6>May 29</h6>
-								<p>Holiday</p>
+								<p class="text-muted"><em>Holiday—No class</em></p>
 								<!-- Social computing: <a href="slides/11-social.pdf">slides</a> -->
 							</td>
 							<td>
 								<h6>May 31</h6>
-								<p>TBA</p>
+								<p>Guest lecturer: <a href="http://shancarter.com">Shan Carter</a>, from <a href="http://distill.pub">Distill</a></p>
 								<!-- <p>Guest lecturer: <a href="http://www.imdb.com/name/nm1106273/">Ari Sachter-Zeltzer</a></p> -->
 							</td>
 						</tr>
@@ -310,7 +310,7 @@
 							</td>
 							<td>
 								<h6>June 7 <!-- <span class="label label-danger">due date</span> --></h6>
-								<p>Wrap-Up</p>
+								<p>Wrap-Up Lecture</p>
 								<!-- <p>No class—<a href="finalpresentations.shtml">Final Presentations at 5:30pm in the d.school</a></p> -->
 								<!-- <a href="assignments/a4.shtml">P4 (Final Assignment)</a> due -->
 
