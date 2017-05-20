@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+X-WR-CALNAME:CS 247 Project Presentations
+METHOD:PUBLISH
+PRODID:-//Apple Inc.//Mac OS X 10.12.4//EN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:PDT
+TZOFFSETTO:-0700
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:PST
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Los_Angeles:20170605T152000
+UID:FD2BD282-7B46-4FD7-A09B-A0B6ED352C52
+DTSTAMP:20170519T234953Z
+LOCATION:Room 282\nLathrop Library\n518 Memorial Way\, Stanford\, CA  94
+ 305\, United States
+DESCRIPTION:# You are invited #\n\nJoin us to find out how Stanford stud
+ ents explore complex topics wuth interaction and design.\n\nCS 247 is th
+ e second core class in Stanford's HCI curriculum. Students work in a des
+ ign studio environment\, learning advanced techniques for needfinding\, 
+ rapid prototyping\, visual design\, andinteraction design.\n\n# Agenda #
+ \n\n1:30–2pm Social Mixer\nStudents set up and guests arrive.\nSnacks wi
+ ll be served.\n\n2:00–2:30pm Presentations\nEach team presents their wor
+ k in a brief presentation.\n\n2:30–3:20pm Poster and Demo Session\nStude
+ nts present demos of their prototypes.\n\n# Parking #\n\nIf you are visi
+ ting from off-campus\, pay & display visitor permit parking may be found
+  at the Visitor Center/Track House lot and Memorial Way. The campus Oval
+  includes a small number of coin-metered spaces.\n\nFor more information
+  on parking and public transport\, please visit http://library.stanford.
+ edu/libraries/lathrop/about\n\nFor up-to-date information on the project
+  presentations\, please visit http://cs247.stanford.edu/2017-spring/proj
+ ect-presentations/.
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:CS 247 Project Presentations
+DTSTART;TZID=America/Los_Angeles:20170605T133000
+CREATED:20170519T234457Z
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAES+AIaEgnp
+ ghv8/bZCQBFvU27WqYpewCKLAgoNVW5pdGVkIFN0YXRlcxICVVMaCkNhbGlmb3JuaWEiAkNB
+ KgtTYW50YSBDbGFyYTIIU3RhbmZvcmQ6BTk0MzA1QhNTdGFuZm9yZCBVbml2ZXJzaXR5UgxN
+ ZW1vcmlhbCBXYXlaAzUxOGIQNTE4IE1lbW9yaWFsIFdheXITU3RhbmZvcmQgVW5pdmVyc2l0
+ eXITU3RhbmZvcmQgVW5pdmVyc2l0eXIvU3RhbmZvcmQgVW5pdmVyc2l0eSAtIERlcGFydG1l
+ bnQgb2YgTWF0aGVtYXRpY3NyE1N0YW5mb3JkIFVuaXZlcnNpdHmKARNTdGFuZm9yZCBVbml2
+ ZXJzaXR5mgEHCAASAzI4MioQNTE4IE1lbW9yaWFsIFdheTIQNTE4IE1lbW9yaWFsIFdheTII
+ VW5pdCAyODIyE1N0YW5mb3JkLCBDQSAgOTQzMDUyDVVuaXRlZCBTdGF0ZXM4OUAB;X-APPLE
+ -RADIUS=49.91303643065441;X-TITLE="Room 282\nLathrop Library\n518 Memori
+ al Way, Stanford, CA  94305, United States":geo:37.429626,-122.166616
+BEGIN:VALARM
+X-WR-ALARMUID:B85C37D8-6A34-48AD-BB32-AC1A4F0A5F4A
+UID:B85C37D8-6A34-48AD-BB32-AC1A4F0A5F4A
+TRIGGER:-PT30M
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+END:VCALENDAR

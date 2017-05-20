@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!--#set var="title" value="Final Presentations - HCI Design Studio" -->
+  <!--#include virtual="../includes/header.shtml" -->
+</head>
+
+<body id="finalpresentations">
+
+  <!--#include virtual="../includes/brandbar.html" -->
+
+  <div class="jumbotron" id="finalpresentations">
+    <div class="container">
+      <h1><span class="department-name">HCI</span> <span class="course-name">design studio</span></h1>
+      <p>Project Presentations &middot; June 5, 1:30–3pm &middot; 282 Lathrop Library, Stanford University</p>
+    </div>
+  </div>
+
+  <!--#include virtual="../includes/navigation.html" -->
+
+  <div class="container">
+    <div class="row featurette">
+      <div class="col-sm-6">
+        <h5>You are invited</h5>
+        <p class="lead">Join us to find out how Stanford students explore complex topics with interaction and design. </p>
+        <p>CS 247 is the second core class in Stanford's HCI curriculum. Students work in a design studio environment, learning advanced techniques for needfinding, rapid prototyping, visual design, and interaction design.</p>
+        <p>
+          <a class="btn btn-primary" href="finalpresentation/CS-247-Project-Faire.ics">Add to calendar <small style="opacity: 0.75;"> &middot; iCal</small></a>
+          <a class="btn btn-default btn-su" href="">RSVP on Facebook <small style="opacity: 0.75;"> optional</small></a>
+        </p>
+      </div>
+      <div class="col-sm-6">
+        <ul class="list-unstyled agenda">
+          <h5>Agenda</h5>
+          <li>
+             1:30–2:00pm <span class="agenda-item">Social Mixer</span>
+             <p class="text-muted">Students set up and guests arrive. Snacks will be served.</p>
+          </li>
+          <li>
+            2:00–2:30pm <span class="agenda-item">Project Presentations</span>
+            <p class="text-muted">Each team presents their work in a brief presentation.</p>
+          </li>
+          <li>
+            2:30–3:20pm <span class="agenda-item">Poster and Demo Session</span>
+            <p class="text-muted">Students present demos of their prototypes.</p>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <hr class="featurette-divider">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h5>Where is Lathrop Library?</h5>
+        <div class="row">
+          <div class="col-xs-5">
+            <address>
+              Room 282 <br>
+              Lathrop Library <br>
+              518 Memorial Way <br>
+              Stanford, CA 94305
+            </address>
+          </div>
+          <div class="col-xs-7">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.3368240696327!2d-122.16961448487031!3d37.42914707982393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbb29c2155555%3A0x7d7db72ceea1d9ef!2sLathrop+Library!5e0!3m2!1sen!2sus!4v1495238632835" width="100%" height="260" frameborder="0" style="border:0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <h5 class="featurette-heading">Parking</h5>
+        <div class="row">
+          <div class="col-xs-5">
+            <p>If you are visiting from off-campus, pay & display visitor permit parking may be found
+ at the Visitor Center/Track House lot and Memorial Way. The campus Oval
+ includes a small number of coin-metered spaces.</p>
+            <p>For more information
+ on parking and public transport, please visit <a href="http://library.stanford.
+edu/libraries/lathrop/about">http://library.stanford.
+edu/libraries/lathrop/about</a></p>
+          </div>
+          <div class="col-xs-7">
+            <img style="height: 260px;" src="directions.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!--#include virtual="../includes/footer.shtml" -->
+
+</body>
+
+</html>
