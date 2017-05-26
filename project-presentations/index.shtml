@@ -23,18 +23,19 @@
     <div class="row featurette">
       <div class="col-sm-6">
         <h5>You are invited</h5>
-        <p class="lead">Join us to find out how Stanford students explore complex topics with interaction and design. </p>
-        <p>CS 247 is the second core class in Stanford's HCI curriculum. Students work in a design studio environment, learning advanced techniques for needfinding, rapid prototyping, visual design, and interaction design.</p>
+        <p class="lead">Join us for the final project presentation of CS 247,<br> Stanford’s advanced HCI Design Studio class.</p>
+        <p>Teams of students will present their Interactive Explorations they created through advanced needfinding, rapid prototyping, visual design, and implementing bespoke interactions.</p>
+        <p>When learning hard concepts, student don’t need boring lectures. They need tailored experiences that allow them to explore the concept interactively to discover it for themselves. Interactive Explorations are an emerging way to teach computer science and math concepts on the web. It is also a design challenge in defining these core concept to learn and the interactions that will convey it.</p>
         <p>
-          <a class="btn btn-primary" href="finalpresentation/CS-247-Project-Faire.ics">Add to calendar <small style="opacity: 0.75;"> &middot; iCal</small></a>
-          <a class="btn btn-default btn-su" href="">RSVP on Facebook <small style="opacity: 0.75;"> optional</small></a>
+          <a class="btn btn-primary" href="CS-247-Project-Faire.ics">Add to calendar <small style="opacity: 0.75;"> &middot; iCal</small></a>
+          <a class="btn btn-default btn-su" href="https://www.facebook.com/events/342747042806991">RSVP on Facebook <small style="opacity: 0.75;"> optional</small></a>
         </p>
       </div>
       <div class="col-sm-6">
         <ul class="list-unstyled agenda">
           <h5>Agenda</h5>
           <li>
-             1:30–2:00pm <span class="agenda-item">Social Mixer</span>
+             1:45–2:00pm <span class="agenda-item">Social Mixer</span>
              <p class="text-muted">Students set up and guests arrive. Snacks will be served.</p>
           </li>
           <li>
